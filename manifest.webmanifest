@@ -1,0 +1,24 @@
+{
+  "name": "Crea tu Empresa · El juego",
+  "short_name": "Crea tu Empresa",
+  "description": "Leé el libro, jugá las misiones y armá tu primer negocio con Bit, tu tutor robot.",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "lang": "es-AR",
+  "dir": "ltr",
+  "background_color": "#FFFDF6",
+  "theme_color": "#F3D22E",
+  "categories": ["education", "games", "kids"],
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "/icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "screenshots": [
+    { "src": "/icons/og.png", "sizes": "1200x630", "type": "image/png", "form_factor": "wide", "label": "Crea tu Empresa" }
+  ]
+}
