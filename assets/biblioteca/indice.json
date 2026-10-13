@@ -1,0 +1,868 @@
+{
+ "OB-brote": {
+  "nombre": "Brote de planta en tierra",
+  "tipo": "objeto",
+  "w": 397,
+  "h": 380,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "lib_ob2_a.png",
+  "notas": "",
+  "bytes": 20258,
+  "paginas": [
+   "c1 p05"
+  ]
+ },
+ "OB-calculadora": {
+  "nombre": "Calculadora violeta",
+  "tipo": "objeto",
+  "w": 380,
+  "h": 436,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "lib_ob2_a.png",
+  "notas": "Teclas sin símbolos.",
+  "bytes": 23132,
+  "paginas": [
+   "c1 p15",
+   "c2 muchas"
+  ]
+ },
+ "OB-camara-foto": {
+  "nombre": "Cámara de fotos violeta",
+  "tipo": "objeto",
+  "w": 478,
+  "h": 372,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT hoja de objetos; lib_ob2_a.png",
+  "notas": "",
+  "bytes": 30874,
+  "paginas": [
+   "c2 p06",
+   "c2 p16"
+  ]
+ },
+ "OB-crayon-violeta": {
+  "nombre": "Crayón violeta",
+  "tipo": "objeto",
+  "w": 300,
+  "h": 319,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "lib_ui3_a.png",
+  "notas": "",
+  "bytes": 9250
+ },
+ "OB-foto-camion": {
+  "nombre": "Foto del balance (objeto para polaroid)",
+  "tipo": "objeto",
+  "w": 480,
+  "h": 418,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT hoja de objetos; arte-libro/crudas/lib_ob1_a.png",
+  "notas": "Objeto aislado, se coloca dentro del marco UI-polaroid sobre un fondo pastel por CSS.",
+  "bytes": 39260,
+  "paginas": [
+   "c2 p06"
+  ]
+ },
+ "OB-foto-carpeta": {
+  "nombre": "Foto del balance (objeto para polaroid)",
+  "tipo": "objeto",
+  "w": 332,
+  "h": 413,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT hoja de objetos; arte-libro/crudas/lib_ob1_a.png",
+  "notas": "Objeto aislado, se coloca dentro del marco UI-polaroid sobre un fondo pastel por CSS.",
+  "bytes": 25052,
+  "paginas": [
+   "c2 p06"
+  ]
+ },
+ "OB-foto-deudas": {
+  "nombre": "Foto del balance (objeto para polaroid)",
+  "tipo": "objeto",
+  "w": 415,
+  "h": 356,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT hoja de objetos; arte-libro/crudas/lib_ob1_a.png",
+  "notas": "Objeto aislado, se coloca dentro del marco UI-polaroid sobre un fondo pastel por CSS.",
+  "bytes": 29342,
+  "paginas": [
+   "c2 p06"
+  ]
+ },
+ "OB-foto-dinero": {
+  "nombre": "Foto del balance (objeto para polaroid)",
+  "tipo": "objeto",
+  "w": 425,
+  "h": 302,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT hoja de objetos; arte-libro/crudas/lib_ob1_a.png",
+  "notas": "Objeto aislado, se coloca dentro del marco UI-polaroid sobre un fondo pastel por CSS.",
+  "bytes": 34356,
+  "paginas": [
+   "c2 p06"
+  ]
+ },
+ "OB-foto-maquinas": {
+  "nombre": "Foto del balance (objeto para polaroid)",
+  "tipo": "objeto",
+  "w": 486,
+  "h": 360,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT hoja de objetos; arte-libro/crudas/lib_ob1_a.png",
+  "notas": "Objeto aislado, se coloca dentro del marco UI-polaroid sobre un fondo pastel por CSS.",
+  "bytes": 30896,
+  "paginas": [
+   "c2 p06"
+  ]
+ },
+ "OB-foto-mercaderia": {
+  "nombre": "Foto del balance (objeto para polaroid)",
+  "tipo": "objeto",
+  "w": 447,
+  "h": 327,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT hoja de objetos; arte-libro/crudas/lib_ob1_a.png",
+  "notas": "Objeto aislado, se coloca dentro del marco UI-polaroid sobre un fondo pastel por CSS.",
+  "bytes": 34016,
+  "paginas": [
+   "c2 p06"
+  ]
+ },
+ "OB-hueso": {
+  "nombre": "Hueso de perro azul",
+  "tipo": "objeto",
+  "w": 470,
+  "h": 344,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "lib_ob2_a.png",
+  "notas": "",
+  "bytes": 19882,
+  "paginas": [
+   "c1 p14"
+  ]
+ },
+ "OB-lapiz-g": {
+  "nombre": "Lápiz grande decorativo",
+  "tipo": "objeto",
+  "w": 356,
+  "h": 398,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "lib_ob2_a.png",
+  "notas": "Inclinado 45 grados; rotar por CSS para otros ángulos.",
+  "bytes": 11764,
+  "paginas": [
+   "c1 p15",
+   "c2 p03",
+   "c2 p06"
+  ]
+ },
+ "OB-planeta-anillo": {
+  "nombre": "Planeta rosa con anillo",
+  "tipo": "objeto",
+  "w": 452,
+  "h": 331,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "lib_ob2_a.png",
+  "notas": "",
+  "bytes": 19704,
+  "paginas": [
+   "c1 p05",
+   "c1 p02"
+  ]
+ },
+ "UI-banner-amarillo": {
+  "nombre": "Banner/cinta de título",
+  "tipo": "ui",
+  "w": 344,
+  "h": 149,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "lib_ui2_a.png",
+  "notas": "Cinta vacía; texto por DOM.",
+  "bytes": 5866
+ },
+ "UI-banner-crema": {
+  "nombre": "Banner/cinta de título",
+  "tipo": "ui",
+  "w": 343,
+  "h": 148,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "lib_ui2_a.png",
+  "notas": "Cinta vacía; texto por DOM.",
+  "bytes": 5762
+ },
+ "UI-banner-verde": {
+  "nombre": "Banner/cinta de título",
+  "tipo": "ui",
+  "w": 347,
+  "h": 151,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "lib_ui2_a.png",
+  "notas": "Cinta vacía; texto por DOM.",
+  "bytes": 6432
+ },
+ "UI-chapa-azul": {
+  "nombre": "Chapita para número (burbuja numerada)",
+  "tipo": "ui",
+  "w": 254,
+  "h": 257,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "lib_ui2_a.png",
+  "notas": "Chapa vacía con hundimiento central; el número va por DOM.",
+  "bytes": 9112,
+  "paginas": [
+   "c1 p05"
+  ]
+ },
+ "UI-chapa-naranja": {
+  "nombre": "Chapita para número (burbuja numerada)",
+  "tipo": "ui",
+  "w": 251,
+  "h": 257,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "lib_ui2_a.png",
+  "notas": "Chapa vacía con hundimiento central; el número va por DOM.",
+  "bytes": 6520,
+  "paginas": [
+   "c1 p05"
+  ]
+ },
+ "UI-chapa-rosa": {
+  "nombre": "Chapita para número (burbuja numerada)",
+  "tipo": "ui",
+  "w": 264,
+  "h": 264,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "lib_ui2_a.png",
+  "notas": "Chapa vacía con hundimiento central; el número va por DOM.",
+  "bytes": 9380,
+  "paginas": [
+   "c1 p05"
+  ]
+ },
+ "UI-chapa-turquesa": {
+  "nombre": "Chapita para número (burbuja numerada)",
+  "tipo": "ui",
+  "w": 268,
+  "h": 265,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "lib_ui2_a.png",
+  "notas": "Chapa vacía con hundimiento central; el número va por DOM.",
+  "bytes": 8978,
+  "paginas": [
+   "c1 p05"
+  ]
+ },
+ "UI-chapa-verde": {
+  "nombre": "Chapita para número (burbuja numerada)",
+  "tipo": "ui",
+  "w": 256,
+  "h": 257,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "lib_ui2_a.png",
+  "notas": "Chapa vacía con hundimiento central; el número va por DOM.",
+  "bytes": 7086,
+  "paginas": [
+   "c1 p05"
+  ]
+ },
+ "UI-chispa-amarilla": {
+  "nombre": "Chispa de 4 puntas",
+  "tipo": "ui",
+  "w": 204,
+  "h": 215,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "lib_ui3_a.png",
+  "notas": "",
+  "bytes": 4846
+ },
+ "UI-estrella-amarilla": {
+  "nombre": "Estrellita decorativa",
+  "tipo": "ui",
+  "w": 217,
+  "h": 211,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "lib_ui3_a.png",
+  "notas": "5 puntas, colores rosa/azul/naranja/amarilla/turquesa.",
+  "bytes": 5806,
+  "paginas": [
+   "c1 p05",
+   "c1 p14"
+  ]
+ },
+ "UI-estrella-azul": {
+  "nombre": "Estrellita decorativa",
+  "tipo": "ui",
+  "w": 217,
+  "h": 211,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "lib_ui3_a.png",
+  "notas": "5 puntas, colores rosa/azul/naranja/amarilla/turquesa.",
+  "bytes": 6144,
+  "paginas": [
+   "c1 p05",
+   "c1 p14"
+  ]
+ },
+ "UI-estrella-naranja": {
+  "nombre": "Estrellita decorativa",
+  "tipo": "ui",
+  "w": 216,
+  "h": 211,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "lib_ui3_a.png",
+  "notas": "5 puntas, colores rosa/azul/naranja/amarilla/turquesa.",
+  "bytes": 5614,
+  "paginas": [
+   "c1 p05",
+   "c1 p14"
+  ]
+ },
+ "UI-estrella-rosa": {
+  "nombre": "Estrellita decorativa",
+  "tipo": "ui",
+  "w": 216,
+  "h": 211,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "lib_ui3_a.png",
+  "notas": "5 puntas, colores rosa/azul/naranja/amarilla/turquesa.",
+  "bytes": 6122,
+  "paginas": [
+   "c1 p05",
+   "c1 p14"
+  ]
+ },
+ "UI-estrella-turquesa": {
+  "nombre": "Estrellita decorativa",
+  "tipo": "ui",
+  "w": 217,
+  "h": 211,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "lib_ui3_a.png",
+  "notas": "5 puntas, colores rosa/azul/naranja/amarilla/turquesa.",
+  "bytes": 5896,
+  "paginas": [
+   "c1 p05",
+   "c1 p14"
+  ]
+ },
+ "UI-globo-azul": {
+  "nombre": "Globo de diálogo de arcilla",
+  "tipo": "ui",
+  "w": 344,
+  "h": 271,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "lib_ui2_a.png",
+  "notas": "Óvalo con colita abajo-izquierda; texto por DOM encima.",
+  "bytes": 13602,
+  "nueve_cortes": [
+   60,
+   60,
+   60,
+   60
+  ],
+  "paginas": [
+   "c1 p05",
+   "c1 p14"
+  ]
+ },
+ "UI-globo-naranja": {
+  "nombre": "Globo de diálogo de arcilla",
+  "tipo": "ui",
+  "w": 344,
+  "h": 271,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "lib_ui2_a.png",
+  "notas": "Óvalo con colita abajo-izquierda; texto por DOM encima.",
+  "bytes": 9930,
+  "nueve_cortes": [
+   60,
+   60,
+   60,
+   60
+  ],
+  "paginas": [
+   "c1 p05",
+   "c1 p14"
+  ]
+ },
+ "UI-globo-rosa": {
+  "nombre": "Globo de diálogo de arcilla",
+  "tipo": "ui",
+  "w": 342,
+  "h": 270,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "lib_ui2_a.png",
+  "notas": "Óvalo con colita abajo-izquierda; texto por DOM encima.",
+  "bytes": 11392,
+  "nueve_cortes": [
+   60,
+   60,
+   60,
+   60
+  ],
+  "paginas": [
+   "c1 p05",
+   "c1 p14"
+  ]
+ },
+ "UI-globo-violeta": {
+  "nombre": "Globo de diálogo de arcilla",
+  "tipo": "ui",
+  "w": 344,
+  "h": 270,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "lib_ui2_a.png",
+  "notas": "Óvalo con colita abajo-izquierda; texto por DOM encima.",
+  "bytes": 12226,
+  "nueve_cortes": [
+   60,
+   60,
+   60,
+   60
+  ],
+  "paginas": [
+   "c1 p05",
+   "c1 p14"
+  ]
+ },
+ "UI-moneda-canto": {
+  "nombre": "Moneda dorada decorativa (lisa, sin grabado)",
+  "tipo": "ui",
+  "w": 83,
+  "h": 263,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "lib_ui3_a.png",
+  "notas": "Variantes g/m/giro/canto; rotar y escalar por CSS.",
+  "bytes": 3660,
+  "paginas": [
+   "c2 a c6"
+  ]
+ },
+ "UI-moneda-g": {
+  "nombre": "Moneda dorada decorativa (lisa, sin grabado)",
+  "tipo": "ui",
+  "w": 308,
+  "h": 306,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "lib_ui3_a.png",
+  "notas": "Variantes g/m/giro/canto; rotar y escalar por CSS.",
+  "bytes": 11720,
+  "paginas": [
+   "c2 a c6"
+  ]
+ },
+ "UI-moneda-giro": {
+  "nombre": "Moneda dorada decorativa (lisa, sin grabado)",
+  "tipo": "ui",
+  "w": 237,
+  "h": 262,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "lib_ui3_a.png",
+  "notas": "Variantes g/m/giro/canto; rotar y escalar por CSS.",
+  "bytes": 7282,
+  "paginas": [
+   "c2 a c6"
+  ]
+ },
+ "UI-moneda-m": {
+  "nombre": "Moneda dorada decorativa (lisa, sin grabado)",
+  "tipo": "ui",
+  "w": 238,
+  "h": 236,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "lib_ui3_a.png",
+  "notas": "Variantes g/m/giro/canto; rotar y escalar por CSS.",
+  "bytes": 8152,
+  "paginas": [
+   "c2 a c6"
+  ]
+ },
+ "UI-nota-adhesiva": {
+  "nombre": "Nota adhesiva amarilla con washi rosa",
+  "tipo": "ui",
+  "w": 305,
+  "h": 313,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "lib_ui3_a.png",
+  "notas": "Texto manuscrito por DOM.",
+  "bytes": 10622,
+  "paginas": [
+   "c2 p06"
+  ]
+ },
+ "UI-pastilla-naranja": {
+  "nombre": "Pastilla ancha (chip)",
+  "tipo": "ui",
+  "w": 332,
+  "h": 164,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "lib_ui2_a.png",
+  "notas": "",
+  "bytes": 6232,
+  "nueve_cortes": [
+   40,
+   40,
+   40,
+   40
+  ]
+ },
+ "UI-polaroid-marco": {
+  "nombre": "Marco polaroid vacío",
+  "tipo": "ui",
+  "w": 302,
+  "h": 320,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "lib_ui3_a.png",
+  "notas": "Ventana gris azulada lisa; colocar el objeto OB-foto-* encima.",
+  "bytes": 8246,
+  "paginas": [
+   "c2 p06"
+  ]
+ },
+ "UI-tarjeta-amarillo": {
+  "nombre": "Tarjeta de arcilla (9-slice)",
+  "tipo": "ui",
+  "w": 315,
+  "h": 395,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT hoja de tarjetas; lib_ui1_a.png",
+  "notas": "Panel liso con borde abultado; estirar con border-image (corte 40px, fill). Colores: crema verde azul rosa naranja violeta amarillo lila. Sin texto.",
+  "bytes": 11688,
+  "nueve_cortes": [
+   40,
+   40,
+   40,
+   40
+  ],
+  "paginas": [
+   "todas"
+  ]
+ },
+ "UI-tarjeta-azul": {
+  "nombre": "Tarjeta de arcilla (9-slice)",
+  "tipo": "ui",
+  "w": 315,
+  "h": 392,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT hoja de tarjetas; lib_ui1_a.png",
+  "notas": "Panel liso con borde abultado; estirar con border-image (corte 40px, fill). Colores: crema verde azul rosa naranja violeta amarillo lila. Sin texto.",
+  "bytes": 19822,
+  "nueve_cortes": [
+   40,
+   40,
+   40,
+   40
+  ],
+  "paginas": [
+   "todas"
+  ]
+ },
+ "UI-tarjeta-crema": {
+  "nombre": "Tarjeta de arcilla (9-slice)",
+  "tipo": "ui",
+  "w": 314,
+  "h": 393,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT hoja de tarjetas; lib_ui1_a.png",
+  "notas": "Panel liso con borde abultado; estirar con border-image (corte 40px, fill). Colores: crema verde azul rosa naranja violeta amarillo lila. Sin texto.",
+  "bytes": 10412,
+  "nueve_cortes": [
+   40,
+   40,
+   40,
+   40
+  ],
+  "paginas": [
+   "todas"
+  ]
+ },
+ "UI-tarjeta-lila": {
+  "nombre": "Tarjeta de arcilla (9-slice)",
+  "tipo": "ui",
+  "w": 313,
+  "h": 395,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT hoja de tarjetas; lib_ui1_a.png",
+  "notas": "Panel liso con borde abultado; estirar con border-image (corte 40px, fill). Colores: crema verde azul rosa naranja violeta amarillo lila. Sin texto.",
+  "bytes": 15540,
+  "nueve_cortes": [
+   40,
+   40,
+   40,
+   40
+  ],
+  "paginas": [
+   "todas"
+  ]
+ },
+ "UI-tarjeta-naranja": {
+  "nombre": "Tarjeta de arcilla (9-slice)",
+  "tipo": "ui",
+  "w": 314,
+  "h": 395,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT hoja de tarjetas; lib_ui1_a.png",
+  "notas": "Panel liso con borde abultado; estirar con border-image (corte 40px, fill). Colores: crema verde azul rosa naranja violeta amarillo lila. Sin texto.",
+  "bytes": 12200,
+  "nueve_cortes": [
+   40,
+   40,
+   40,
+   40
+  ],
+  "paginas": [
+   "todas"
+  ]
+ },
+ "UI-tarjeta-rosa": {
+  "nombre": "Tarjeta de arcilla (9-slice)",
+  "tipo": "ui",
+  "w": 313,
+  "h": 393,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT hoja de tarjetas; lib_ui1_a.png",
+  "notas": "Panel liso con borde abultado; estirar con border-image (corte 40px, fill). Colores: crema verde azul rosa naranja violeta amarillo lila. Sin texto.",
+  "bytes": 16172,
+  "nueve_cortes": [
+   40,
+   40,
+   40,
+   40
+  ],
+  "paginas": [
+   "todas"
+  ]
+ },
+ "UI-tarjeta-verde": {
+  "nombre": "Tarjeta de arcilla (9-slice)",
+  "tipo": "ui",
+  "w": 314,
+  "h": 393,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT hoja de tarjetas; lib_ui1_a.png",
+  "notas": "Panel liso con borde abultado; estirar con border-image (corte 40px, fill). Colores: crema verde azul rosa naranja violeta amarillo lila. Sin texto.",
+  "bytes": 12544,
+  "nueve_cortes": [
+   40,
+   40,
+   40,
+   40
+  ],
+  "paginas": [
+   "todas"
+  ]
+ },
+ "UI-tarjeta-violeta": {
+  "nombre": "Tarjeta de arcilla (9-slice)",
+  "tipo": "ui",
+  "w": 313,
+  "h": 395,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT hoja de tarjetas; lib_ui1_a.png",
+  "notas": "Panel liso con borde abultado; estirar con border-image (corte 40px, fill). Colores: crema verde azul rosa naranja violeta amarillo lila. Sin texto.",
+  "bytes": 13718,
+  "nueve_cortes": [
+   40,
+   40,
+   40,
+   40
+  ],
+  "paginas": [
+   "todas"
+  ]
+ },
+ "VN01": {
+  "nombre": "Veterinaria, mamá y perro con poncho",
+  "tipo": "vineta",
+  "w": 1400,
+  "h": 886,
+  "pivote": [
+   0.5,
+   0.97
+  ],
+  "fuente": "ChatGPT img2img desde en-fuente/cap1/p14.png; arte-libro/crudas/lib_vn01_a.png",
+  "notas": "Viñeta de grupo; base de pasto incluida. Se usa chica (p05) y grande (p14). Sin texto.",
+  "bytes": 89346,
+  "paginas": [
+   "c1 p01",
+   "c1 p03",
+   "c1 p05",
+   "c1 p14"
+  ]
+ },
+ "VN02": {
+  "nombre": "Constructor con su hijo, camioneta y molino",
+  "tipo": "vineta",
+  "w": 1400,
+  "h": 941,
+  "pivote": [
+   0.5,
+   0.97
+  ],
+  "fuente": "ChatGPT img2img desde en-fuente/cap1/p05.png; arte-libro/crudas/lib_vn02_a.png",
+  "notas": "Viñeta de grupo; planos y camioneta sin texto.",
+  "bytes": 86324,
+  "paginas": [
+   "c1 p01",
+   "c1 p03",
+   "c1 p05"
+  ]
+ },
+ "VN03": {
+  "nombre": "Astronauta plantando un brote en Marte",
+  "tipo": "vineta",
+  "w": 1400,
+  "h": 814,
+  "pivote": [
+   0.5,
+   0.95
+  ],
+  "fuente": "ChatGPT img2img desde en-fuente/cap1/p05.png; arte-libro/crudas/lib_vn03_a.png",
+  "notas": "Isla naranja con cúpula; brote verde.",
+  "bytes": 82768,
+  "paginas": [
+   "c1 p01",
+   "c1 p02",
+   "c1 p03",
+   "c1 p05"
+  ]
+ }
+}
