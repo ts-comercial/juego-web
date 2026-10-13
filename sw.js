@@ -18,9 +18,9 @@
  *    del bucket). Por defensa, cualquier /assets/cap[2-6]new/ del mismo origen tampoco se guarda y
  *    se purga lo que hubiera quedado de builds viejos. Costo: esas páginas necesitan internet.
  */
-const VERSION = "50858995d1";
+const VERSION = "1c38b1a95a";
 const SHELL = ["/","/offline.html","/manifest.webmanifest","/icons/icon-192.png","/favicon.svg"];
-const ESTATICOS = ["/static/index-Da-bM8fW.css","/static/Tienda-sg3fqz35.css","/static/Empresa-CNHJ9gSH.css","/static/cuenta-BmM8i-O2.css","/static/Legal-D_QNvs4c.css","/static/Admin-Cjzobli5.css","/static/supabase-NXRyLVor.js","/static/i18n-en-BpxkRL-9.js","/static/react-B4E2Ce9m.js","/static/motion-D8SN4pYN.js","/static/contenido-BQRpKiok.js","/static/index-DI65WT8t.js","/static/Tienda-BD4stYAy.js","/static/Empresa-VKE_7JPQ.js","/static/Cuenta-GfM-GRlh.js","/static/Probador-fuLL35nk.js","/static/Perfiles-BeSTPC--.js","/static/useAvatarPng-C_o02aMj.js","/static/CuentaAdulto-C-z78dmY.js","/static/Consentimiento-olcu9x80.js","/static/Legal-bLCScsoS.js","/static/textos-Cfg2tUSC.js","/static/Admin-BjVMEWjs.js"];
+const ESTATICOS = ["/static/index-Da-bM8fW.css","/static/Tienda-sg3fqz35.css","/static/Empresa-CNHJ9gSH.css","/static/cuenta-BmM8i-O2.css","/static/Legal-D_QNvs4c.css","/static/Admin-Cjzobli5.css","/static/supabase-NXRyLVor.js","/static/i18n-en-BpxkRL-9.js","/static/react-B4E2Ce9m.js","/static/motion-D8SN4pYN.js","/static/contenido-BQRpKiok.js","/static/index-DMkgYkkq.js","/static/Tienda-DkmZ-yfc.js","/static/Empresa-CaJFLHJ_.js","/static/Cuenta-DluxO9TE.js","/static/Probador-C2vV0z40.js","/static/Perfiles-BlY1Lk6P.js","/static/useAvatarPng-DJNHBvsA.js","/static/CuentaAdulto-DIHHWCKa.js","/static/Consentimiento-BkJttCee.js","/static/Legal-BWwmnKMM.js","/static/textos-Cfg2tUSC.js","/static/Admin-DvFrXTg0.js"];
 
 const C_SHELL = `cte-shell-${VERSION}`;
 const C_STATIC = 'cte-static';
