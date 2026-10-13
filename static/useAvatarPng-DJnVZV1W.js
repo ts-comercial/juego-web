@@ -1,0 +1,1 @@
+import{r as e}from"./react-rF1qNn-4.js";import{a0 as s,a1 as r,k as n}from"./index-dYJ2FNYX.js";const c=new Map,o=n();function g(t){const a=(o?"v3|":"v1|")+JSON.stringify(t),[u,i]=e.useState(()=>c.get(a)??null);return e.useEffect(()=>{},[a]),s(r(t).img)}export{g as u};
