@@ -1,0 +1,1 @@
+import{j as s}from"./react-rF1qNn-4.js";const a={1:"#F8E7A6",2:"#FFD9B8",3:"#CDEBD8",4:"#DDD2F0",5:"#CFE0F2",6:"#F8D3E1"};function n({m:t}){return s.jsx("div",{className:"t2-mancha",style:{"--mancha":a[t.cap]??a[1]},"aria-hidden":"true"})}export{n as default};

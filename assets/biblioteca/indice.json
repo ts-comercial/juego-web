@@ -1,4 +1,53 @@
 {
+ "OB-abaco": {
+  "nombre": "Ábaco de madera con bolitas de colores",
+  "tipo": "objeto",
+  "w": 373,
+  "h": 391,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "crudas/c2_ob_d.png",
+  "notas": "",
+  "bytes": 26330,
+  "paginas": [
+   "c2 p07"
+  ]
+ },
+ "OB-balanza": {
+  "nombre": "Balanza de cocina plateada",
+  "tipo": "objeto",
+  "w": 315,
+  "h": 403,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c2_ob_a.png",
+  "notas": "Esfera lisa sin números.",
+  "bytes": 16184,
+  "paginas": [
+   "c2 p02",
+   "c2 p07"
+  ]
+ },
+ "OB-bolsa-compras": {
+  "nombre": "Bolsa de papel de compras con verduras",
+  "tipo": "objeto",
+  "w": 348,
+  "h": 439,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "crudas/c2_ob_b.png",
+  "notas": "",
+  "bytes": 25318,
+  "paginas": [
+   "c3 p11"
+  ]
+ },
  "OB-brote": {
   "nombre": "Brote de planta en tierra",
   "tipo": "objeto",
@@ -13,6 +62,58 @@
   "bytes": 20258,
   "paginas": [
    "c1 p05"
+  ]
+ },
+ "OB-caja-carton": {
+  "nombre": "Caja de cartón abierta con papeles",
+  "tipo": "objeto",
+  "w": 441,
+  "h": 419,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "crudas/c2_ob_a.png",
+  "notas": "",
+  "bytes": 23130,
+  "paginas": [
+   "c2 p19",
+   "c2 p24",
+   "c2 p17"
+  ]
+ },
+ "OB-caja-fuerte": {
+  "nombre": "Caja fuerte verde abierta con monedas y gemas",
+  "tipo": "objeto",
+  "w": 491,
+  "h": 404,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "crudas/c2_ob_a.png",
+  "notas": "Puerta redonda abierta.",
+  "bytes": 26598,
+  "paginas": [
+   "c2 p17",
+   "c2 p20",
+   "c5 p09"
+  ]
+ },
+ "OB-cajon-frutas": {
+  "nombre": "Cajón de madera con frutas y verduras",
+  "tipo": "objeto",
+  "w": 453,
+  "h": 382,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "crudas/c2_ob_b.png",
+  "notas": "",
+  "bytes": 33298,
+  "paginas": [
+   "c2 p02"
   ]
  },
  "OB-calculadora": {
@@ -32,6 +133,22 @@
    "c2 muchas"
   ]
  },
+ "OB-camara-cine": {
+  "nombre": "Proyector de cine violeta con bobinas",
+  "tipo": "objeto",
+  "w": 409,
+  "h": 434,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "crudas/c2_ob_b.png",
+  "notas": "",
+  "bytes": 25054,
+  "paginas": [
+   "c2 p16"
+  ]
+ },
  "OB-camara-foto": {
   "nombre": "Cámara de fotos violeta",
   "tipo": "objeto",
@@ -49,6 +166,56 @@
    "c2 p16"
   ]
  },
+ "OB-cartel-madera": {
+  "nombre": "Cartel de madera vacío con poste",
+  "tipo": "objeto",
+  "w": 396,
+  "h": 398,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "crudas/c2_ob_d.png",
+  "notas": "",
+  "bytes": 15722,
+  "paginas": [
+   "c2 p12"
+  ]
+ },
+ "OB-celu-carrito": {
+  "nombre": "Celular grande con carrito de compras y licuado",
+  "tipo": "objeto",
+  "w": 370,
+  "h": 479,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT img2img desde en-fuente/cap1; arte-libro/crudas/c1_*",
+  "notas": "Pantalla sin texto (el rótulo LICUADO SHOP va por código).",
+  "bytes": 29714,
+  "paginas": [
+   "c1 p17",
+   "c1 p20"
+  ]
+ },
+ "OB-cofre-monedas": {
+  "nombre": "Cofre de madera con monedas",
+  "tipo": "objeto",
+  "w": 419,
+  "h": 434,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "crudas/c2_ob_a.png",
+  "notas": "",
+  "bytes": 37180,
+  "paginas": [
+   "c2 p20",
+   "c1 p21"
+  ]
+ },
  "OB-crayon-violeta": {
   "nombre": "Crayón violeta",
   "tipo": "objeto",
@@ -61,6 +228,125 @@
   "fuente": "lib_ui3_a.png",
   "notas": "",
   "bytes": 9250
+ },
+ "OB-cuaderno-cuadriculado": {
+  "nombre": "Cuaderno cuadriculado de espiral con lápiz",
+  "tipo": "objeto",
+  "w": 506,
+  "h": 347,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "crudas/c2_ob_a.png",
+  "notas": "Abierto, espiral violeta.",
+  "bytes": 33260,
+  "paginas": [
+   "c2 p04",
+   "c3 p14"
+  ]
+ },
+ "OB-cupcake": {
+  "nombre": "Cupcake grande con frutilla",
+  "tipo": "objeto",
+  "w": 362,
+  "h": 477,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT img2img desde en-fuente/cap1; arte-libro/crudas/c1_*",
+  "notas": "",
+  "bytes": 26858,
+  "paginas": [
+   "c1 p10",
+   "c1 p11"
+  ]
+ },
+ "OB-documento-sello": {
+  "nombre": "Documento con sello rojo y firma (renglones sin texto)",
+  "tipo": "objeto",
+  "w": 353,
+  "h": 399,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "crudas/c2_ob_c.png",
+  "notas": "",
+  "bytes": 17346,
+  "paginas": [
+   "c2 p07",
+   "c4 p02"
+  ]
+ },
+ "OB-escalera-resultados": {
+  "nombre": "Escalera de 7 barras de colores (estado de resultados)",
+  "tipo": "objeto",
+  "w": 1024,
+  "h": 710,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "crudas/c2_esc.png",
+  "notas": "7 barras: mostaza, verde, rosa, naranja, azul, lila, salmón, cada una con círculo oscuro al final. Sin texto: los rótulos van por DOM.",
+  "bytes": 54652,
+  "paginas": [
+   "c2 p08"
+  ]
+ },
+ "OB-escuela": {
+  "nombre": "Escuela de ladrillo con bandera",
+  "tipo": "objeto",
+  "w": 456,
+  "h": 405,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "crudas/c2_ob_c.png",
+  "notas": "",
+  "bytes": 24792,
+  "paginas": [
+   "c2 p09",
+   "c2 p14"
+  ]
+ },
+ "OB-fajo-billetes": {
+  "nombre": "Fajo de billetes con banda y 2 billetes sueltos",
+  "tipo": "objeto",
+  "w": 460,
+  "h": 376,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "crudas/c2_ob_b.png",
+  "notas": "",
+  "bytes": 26280,
+  "paginas": [
+   "c2 p06",
+   "c3 p02",
+   "c4 p06"
+  ]
+ },
+ "OB-fichas": {
+  "nombre": "Fichas redondas de colores (5 sueltas)",
+  "tipo": "objeto",
+  "w": 443,
+  "h": 270,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "crudas/c2_ob_d.png",
+  "notas": "",
+  "bytes": 11748,
+  "paginas": [
+   "c2 p07",
+   "c2 p25"
+  ]
  },
  "OB-foto-camion": {
   "nombre": "Foto del balance (objeto para polaroid)",
@@ -158,6 +444,22 @@
    "c2 p06"
   ]
  },
+ "OB-hospital": {
+  "nombre": "Hospital pequeño con cruz azul",
+  "tipo": "objeto",
+  "w": 470,
+  "h": 342,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "crudas/c2_ob_c.png",
+  "notas": "",
+  "bytes": 16260,
+  "paginas": [
+   "c2 p09"
+  ]
+ },
  "OB-hueso": {
   "nombre": "Hueso de perro azul",
   "tipo": "objeto",
@@ -192,6 +494,109 @@
    "c2 p06"
   ]
  },
+ "OB-laptop": {
+  "nombre": "Laptop gris abierta",
+  "tipo": "objeto",
+  "w": 437,
+  "h": 393,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "crudas/c2_ob_a.png",
+  "notas": "Pantalla lisa verde oscuro (poner contenido por CSS).",
+  "bytes": 21226,
+  "paginas": [
+   "c2 p19",
+   "c2 p24",
+   "c2 p17",
+   "c1 p04"
+  ]
+ },
+ "OB-laptop-juguete": {
+  "nombre": "Laptop de juguete azul con planilla vacía",
+  "tipo": "objeto",
+  "w": 585,
+  "h": 479,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT img2img desde en-fuente/cap1; arte-libro/crudas/c1_*",
+  "notas": "Celdas vacías: rellenar con texto DOM encima.",
+  "bytes": 38854,
+  "paginas": [
+   "c1 p23"
+  ]
+ },
+ "OB-licuadora": {
+  "nombre": "Licuadora con frutas",
+  "tipo": "objeto",
+  "w": 330,
+  "h": 498,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT img2img desde en-fuente/cap1; arte-libro/crudas/c1_*",
+  "notas": "",
+  "bytes": 31818,
+  "paginas": [
+   "c1 p17",
+   "c1 p18"
+  ]
+ },
+ "OB-lupa": {
+  "nombre": "Lupa con mango amarillo",
+  "tipo": "objeto",
+  "w": 365,
+  "h": 384,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "crudas/c2_ob_d.png",
+  "notas": "",
+  "bytes": 12618,
+  "paginas": [
+   "c2 p27",
+   "c5 p24"
+  ]
+ },
+ "OB-macetas": {
+  "nombre": "Planta en maceta de barro",
+  "tipo": "objeto",
+  "w": 297,
+  "h": 380,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "crudas/c2_ob_c.png",
+  "notas": "",
+  "bytes": 14660,
+  "paginas": [
+   "c2 p23"
+  ]
+ },
+ "OB-pila-monedas": {
+  "nombre": "Tres pilas de monedas doradas",
+  "tipo": "objeto",
+  "w": 444,
+  "h": 313,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "crudas/c2_ob_b.png",
+  "notas": "",
+  "bytes": 22264,
+  "paginas": [
+   "c2 p20",
+   "c1 p21",
+   "c3 p07"
+  ]
+ },
  "OB-planeta-anillo": {
   "nombre": "Planeta rosa con anillo",
   "tipo": "objeto",
@@ -207,6 +612,876 @@
   "paginas": [
    "c1 p05",
    "c1 p02"
+  ]
+ },
+ "OB-sobres": {
+  "nombre": "Sobres sellados con corazón y carta",
+  "tipo": "objeto",
+  "w": 442,
+  "h": 374,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "crudas/c2_ob_b.png",
+  "notas": "",
+  "bytes": 17784,
+  "paginas": [
+   "c2 p13"
+  ]
+ },
+ "OB-tablet": {
+  "nombre": "Tablet con gráfico de barras sin números",
+  "tipo": "objeto",
+  "w": 447,
+  "h": 328,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "crudas/c2_ob_d.png",
+  "notas": "",
+  "bytes": 15938,
+  "paginas": [
+   "c4 p09",
+   "c5 p03"
+  ]
+ },
+ "OB-taza-cafe": {
+  "nombre": "Taza de café con vapor",
+  "tipo": "objeto",
+  "w": 366,
+  "h": 405,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "crudas/c2_ob_d.png",
+  "notas": "",
+  "bytes": 14532,
+  "paginas": [
+   "c4 p09"
+  ]
+ },
+ "OB-urna": {
+  "nombre": "Urna de votación azul con sobre",
+  "tipo": "objeto",
+  "w": 385,
+  "h": 418,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "crudas/c2_ob_c.png",
+  "notas": "",
+  "bytes": 18986,
+  "paginas": [
+   "c2 p13"
+  ]
+ },
+ "OB-zapatos": {
+  "nombre": "Tres zapatillas de colores",
+  "tipo": "objeto",
+  "w": 480,
+  "h": 234,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "crudas/c2_ob_c.png",
+  "notas": "",
+  "bytes": 23296,
+  "paginas": [
+   "c2 p01",
+   "c2 p22"
+  ]
+ },
+ "PJ-nena-falda": {
+  "nombre": "Nena de falda rosa comprando",
+  "tipo": "personaje",
+  "w": 547,
+  "h": 847,
+  "pivote": [
+   0.5,
+   0.97
+  ],
+  "fuente": "ChatGPT img2img desde en-fuente/cap1; arte-libro/crudas/c1_*",
+  "notas": "De pie, mano estirada.",
+  "bytes": 39524,
+  "paginas": [
+   "c1 p18",
+   "c1 p20"
+  ]
+ },
+ "PJ-nene-vendedor": {
+  "nombre": "Nene vendedor de licuados (rayas y delantal)",
+  "tipo": "personaje",
+  "w": 432,
+  "h": 900,
+  "pivote": [
+   0.5,
+   0.97
+  ],
+  "fuente": "ChatGPT img2img desde en-fuente/cap1; arte-libro/crudas/c1_*",
+  "notas": "De pie, sin puesto.",
+  "bytes": 61420,
+  "paginas": [
+   "c1 p18",
+   "c1 p20"
+  ]
+ },
+ "PJ01": {
+  "nombre": "Nene con delantal violeta, laptop y caja de cartón",
+  "tipo": "personaje",
+  "w": 1233,
+  "h": 993,
+  "pivote": [
+   0.5,
+   0.97
+  ],
+  "fuente": "ChatGPT img2img en-fuente/cap2; crudas/c2_pj01.png",
+  "notas": "Sobre isla de pasto; sin texto.",
+  "bytes": 76172,
+  "paginas": [
+   "c2 p19",
+   "c1 p04",
+   "c5 p40"
+  ]
+ },
+ "PJ01_camina": {
+  "nombre": "Nene con laptop - pose camina",
+  "tipo": "personaje",
+  "w": 270,
+  "h": 468,
+  "pivote": [
+   0.5,
+   0.98
+  ],
+  "fuente": "",
+  "notas": "Pose del personaje PJ01 (sin laptop ni caja). Escala consistente entre poses (misma hoja).",
+  "bytes": 21152,
+  "paginas": [
+   "c1 p04"
+  ]
+ },
+ "PJ01_festejo": {
+  "nombre": "Nene con laptop - pose festejo",
+  "tipo": "personaje",
+  "w": 337,
+  "h": 469,
+  "pivote": [
+   0.5,
+   0.98
+  ],
+  "fuente": "",
+  "notas": "Pose del personaje PJ01 (sin laptop ni caja). Escala consistente entre poses (misma hoja).",
+  "bytes": 23862,
+  "paginas": [
+   "c1 p04"
+  ]
+ },
+ "PJ01_idle": {
+  "nombre": "Nene con laptop - pose idle",
+  "tipo": "personaje",
+  "w": 181,
+  "h": 482,
+  "pivote": [
+   0.5,
+   0.98
+  ],
+  "fuente": "",
+  "notas": "Pose del personaje PJ01 (sin laptop ni caja). Escala consistente entre poses (misma hoja).",
+  "bytes": 21290,
+  "paginas": [
+   "c1 p04"
+  ]
+ },
+ "PJ01_saludo": {
+  "nombre": "Nene con laptop - pose saludo",
+  "tipo": "personaje",
+  "w": 253,
+  "h": 486,
+  "pivote": [
+   0.5,
+   0.98
+  ],
+  "fuente": "",
+  "notas": "Pose del personaje PJ01 (sin laptop ni caja). Escala consistente entre poses (misma hoja).",
+  "bytes": 22770,
+  "paginas": [
+   "c1 p04"
+  ]
+ },
+ "PJ02": {
+  "nombre": "Nena de trenzas con bandeja de galletas",
+  "tipo": "personaje",
+  "w": 631,
+  "h": 1024,
+  "pivote": [
+   0.5,
+   0.97
+  ],
+  "fuente": "ChatGPT img2img desde en-fuente/cap1; arte-libro/crudas/c1_*",
+  "notas": "De pie con bandeja de galletas y cupcakes; sin carrito ni cartel.",
+  "bytes": 78516,
+  "paginas": [
+   "c1 p16",
+   "c1 p20",
+   "c3 p16",
+   "c6 p11",
+   "c6 p14"
+  ],
+  "poses": [
+   "idle",
+   "saludo",
+   "festejo",
+   "camina"
+  ]
+ },
+ "PJ02_camina": {
+  "nombre": "Nena de trenzas - pose camina",
+  "tipo": "personaje",
+  "w": 275,
+  "h": 466,
+  "pivote": [
+   0.5,
+   0.98
+  ],
+  "fuente": "",
+  "notas": "Pose del personaje PJ02 (sin bandeja).",
+  "bytes": 25080,
+  "paginas": [
+   "c1 p16",
+   "c1 p20"
+  ]
+ },
+ "PJ02_festejo": {
+  "nombre": "Nena de trenzas - pose festejo",
+  "tipo": "personaje",
+  "w": 347,
+  "h": 480,
+  "pivote": [
+   0.5,
+   0.98
+  ],
+  "fuente": "",
+  "notas": "Pose del personaje PJ02 (sin bandeja).",
+  "bytes": 29314,
+  "paginas": [
+   "c1 p16",
+   "c1 p20"
+  ]
+ },
+ "PJ02_idle": {
+  "nombre": "Nena de trenzas - pose idle",
+  "tipo": "personaje",
+  "w": 222,
+  "h": 467,
+  "pivote": [
+   0.5,
+   0.98
+  ],
+  "fuente": "",
+  "notas": "Pose del personaje PJ02 (sin bandeja).",
+  "bytes": 25112,
+  "paginas": [
+   "c1 p16",
+   "c1 p20"
+  ]
+ },
+ "PJ02_saludo": {
+  "nombre": "Nena de trenzas - pose saludo",
+  "tipo": "personaje",
+  "w": 273,
+  "h": 478,
+  "pivote": [
+   0.5,
+   0.98
+  ],
+  "fuente": "",
+  "notas": "Pose del personaje PJ02 (sin bandeja).",
+  "bytes": 27142,
+  "paginas": [
+   "c1 p16",
+   "c1 p20"
+  ]
+ },
+ "PJ04": {
+  "nombre": "Nena de trenzas con overol, laptop y caja",
+  "tipo": "personaje",
+  "w": 382,
+  "h": 646,
+  "pivote": [
+   0.5,
+   0.97
+  ],
+  "fuente": "ChatGPT img2img en-fuente/cap2; crudas/c2_s1.png",
+  "notas": "",
+  "bytes": 40374,
+  "paginas": [
+   "c2 p17",
+   "c2 p24",
+   "c5 p02"
+  ]
+ },
+ "PJ05": {
+  "nombre": "Nene con overol gris y camisa verde",
+  "tipo": "personaje",
+  "w": 274,
+  "h": 647,
+  "pivote": [
+   0.5,
+   0.97
+  ],
+  "fuente": "ChatGPT img2img en-fuente/cap2; crudas/c2_s1.png (hoja de 4)",
+  "notas": "De pie, manos a los costados, pasto chico.",
+  "bytes": 31598,
+  "paginas": [
+   "c2 p26"
+  ]
+ },
+ "PJ06": {
+  "nombre": "Nena de rulos con lupa-gato, saluda",
+  "tipo": "personaje",
+  "w": 378,
+  "h": 654,
+  "pivote": [
+   0.5,
+   0.97
+  ],
+  "fuente": "ChatGPT img2img en-fuente/cap2; crudas/c2_s1.png",
+  "notas": "",
+  "bytes": 39790,
+  "paginas": [
+   "c2 p27",
+   "c1 p22"
+  ]
+ },
+ "PJ06_camina": {
+  "nombre": "Nena de rodetes - pose camina",
+  "tipo": "personaje",
+  "w": 263,
+  "h": 467,
+  "pivote": [
+   0.5,
+   0.98
+  ],
+  "fuente": "",
+  "notas": "Pose del personaje PJ06 (sin lupa).",
+  "bytes": 24708,
+  "paginas": [
+   "c1 p22"
+  ]
+ },
+ "PJ06_festejo": {
+  "nombre": "Nena de rodetes - pose festejo",
+  "tipo": "personaje",
+  "w": 338,
+  "h": 482,
+  "pivote": [
+   0.5,
+   0.98
+  ],
+  "fuente": "",
+  "notas": "Pose del personaje PJ06 (sin lupa).",
+  "bytes": 27948,
+  "paginas": [
+   "c1 p22"
+  ]
+ },
+ "PJ06_idle": {
+  "nombre": "Nena de rodetes - pose idle",
+  "tipo": "personaje",
+  "w": 250,
+  "h": 474,
+  "pivote": [
+   0.5,
+   0.98
+  ],
+  "fuente": "",
+  "notas": "Pose del personaje PJ06 (sin lupa).",
+  "bytes": 26382,
+  "paginas": [
+   "c1 p22"
+  ]
+ },
+ "PJ06_saludo": {
+  "nombre": "Nena de rodetes - pose saludo",
+  "tipo": "personaje",
+  "w": 259,
+  "h": 474,
+  "pivote": [
+   0.5,
+   0.98
+  ],
+  "fuente": "",
+  "notas": "Pose del personaje PJ06 (sin lupa).",
+  "bytes": 26166,
+  "paginas": [
+   "c1 p22"
+  ]
+ },
+ "PJ07-3q": {
+  "nombre": "Nena en monopatín (tres cuartos)",
+  "tipo": "personaje",
+  "w": 636,
+  "h": 900,
+  "pivote": [
+   0.5,
+   0.97
+  ],
+  "fuente": "ChatGPT img2img desde en-fuente/cap1; arte-libro/crudas/c1_*",
+  "notas": "Falda rosa, mochilita, monopatín turquesa.",
+  "bytes": 82660,
+  "paginas": [
+   "c1 p10",
+   "c2 p05",
+   "c2 p10",
+   "c6 p11",
+   "c6 p14"
+  ]
+ },
+ "PJ07-perfil": {
+  "nombre": "Nena en monopatín (perfil)",
+  "tipo": "personaje",
+  "w": 647,
+  "h": 896,
+  "pivote": [
+   0.5,
+   0.97
+  ],
+  "fuente": "ChatGPT img2img desde en-fuente/cap1; arte-libro/crudas/c1_*",
+  "notas": "Misma nena, de perfil avanzando.",
+  "bytes": 58614,
+  "paginas": [
+   "c1 p10",
+   "c2 p05"
+  ]
+ },
+ "PJ10": {
+  "nombre": "Chef con bandeja de cupcakes",
+  "tipo": "personaje",
+  "w": 570,
+  "h": 1024,
+  "pivote": [
+   0.5,
+   0.97
+  ],
+  "fuente": "ChatGPT img2img desde en-fuente/cap1; arte-libro/crudas/c1_*",
+  "notas": "De pie con bandeja de cupcakes; sin puesto.",
+  "bytes": 86202,
+  "paginas": [
+   "c1 p10",
+   "c1 p11",
+   "c4 p21"
+  ],
+  "poses": [
+   "idle",
+   "saludo",
+   "festejo",
+   "camina"
+  ]
+ },
+ "PJ10_camina": {
+  "nombre": "Chef - pose camina",
+  "tipo": "personaje",
+  "w": 246,
+  "h": 475,
+  "pivote": [
+   0.5,
+   0.98
+  ],
+  "fuente": "",
+  "notas": "Pose del personaje PJ10 (sin bandeja).",
+  "bytes": 16390,
+  "paginas": [
+   "c1 p10",
+   "c1 p11"
+  ]
+ },
+ "PJ10_festejo": {
+  "nombre": "Chef - pose festejo",
+  "tipo": "personaje",
+  "w": 286,
+  "h": 482,
+  "pivote": [
+   0.5,
+   0.98
+  ],
+  "fuente": "",
+  "notas": "Pose del personaje PJ10 (sin bandeja).",
+  "bytes": 17372,
+  "paginas": [
+   "c1 p10",
+   "c1 p11"
+  ]
+ },
+ "PJ10_idle": {
+  "nombre": "Chef - pose idle",
+  "tipo": "personaje",
+  "w": 186,
+  "h": 468,
+  "pivote": [
+   0.5,
+   0.98
+  ],
+  "fuente": "",
+  "notas": "Pose del personaje PJ10 (sin bandeja).",
+  "bytes": 14862,
+  "paginas": [
+   "c1 p10",
+   "c1 p11"
+  ]
+ },
+ "PJ10_saludo": {
+  "nombre": "Chef - pose saludo",
+  "tipo": "personaje",
+  "w": 234,
+  "h": 473,
+  "pivote": [
+   0.5,
+   0.98
+  ],
+  "fuente": "",
+  "notas": "Pose del personaje PJ10 (sin bandeja).",
+  "bytes": 15694,
+  "paginas": [
+   "c1 p10",
+   "c1 p11"
+  ]
+ },
+ "PJ11": {
+  "nombre": "Señora de pelo rosa y anteojos con bandeja de monedas",
+  "tipo": "personaje",
+  "w": 495,
+  "h": 1024,
+  "pivote": [
+   0.5,
+   0.97
+  ],
+  "fuente": "ChatGPT img2img desde en-fuente/cap1; arte-libro/crudas/c1_*",
+  "notas": "De pie con bandeja de monedas; sin puesto.",
+  "bytes": 70654,
+  "paginas": [
+   "c1 p10",
+   "c1 p21",
+   "c2 p05",
+   "c2 p20",
+   "c5 p14"
+  ],
+  "poses": [
+   "idle",
+   "saludo",
+   "festejo",
+   "camina"
+  ]
+ },
+ "PJ11_camina": {
+  "nombre": "Señora de pelo rosa - pose camina",
+  "tipo": "personaje",
+  "w": 260,
+  "h": 457,
+  "pivote": [
+   0.5,
+   0.98
+  ],
+  "fuente": "",
+  "notas": "Pose del personaje PJ11 (sin bandeja).",
+  "bytes": 18638,
+  "paginas": [
+   "c1 p10",
+   "c1 p21"
+  ]
+ },
+ "PJ11_festejo": {
+  "nombre": "Señora de pelo rosa - pose festejo",
+  "tipo": "personaje",
+  "w": 316,
+  "h": 472,
+  "pivote": [
+   0.5,
+   0.98
+  ],
+  "fuente": "",
+  "notas": "Pose del personaje PJ11 (sin bandeja).",
+  "bytes": 20384,
+  "paginas": [
+   "c1 p10",
+   "c1 p21"
+  ]
+ },
+ "PJ11_idle": {
+  "nombre": "Señora de pelo rosa - pose idle",
+  "tipo": "personaje",
+  "w": 226,
+  "h": 482,
+  "pivote": [
+   0.5,
+   0.98
+  ],
+  "fuente": "",
+  "notas": "Pose del personaje PJ11 (sin bandeja).",
+  "bytes": 18540,
+  "paginas": [
+   "c1 p10",
+   "c1 p21"
+  ]
+ },
+ "PJ11_saludo": {
+  "nombre": "Señora de pelo rosa - pose saludo",
+  "tipo": "personaje",
+  "w": 246,
+  "h": 482,
+  "pivote": [
+   0.5,
+   0.98
+  ],
+  "fuente": "",
+  "notas": "Pose del personaje PJ11 (sin bandeja).",
+  "bytes": 19212,
+  "paginas": [
+   "c1 p10",
+   "c1 p21"
+  ]
+ },
+ "PJ13": {
+  "nombre": "Padre e hija caminando de la mano",
+  "tipo": "personaje",
+  "w": 755,
+  "h": 1024,
+  "pivote": [
+   0.5,
+   0.97
+  ],
+  "fuente": "ChatGPT img2img desde en-fuente/cap1; arte-libro/crudas/c1_*",
+  "notas": "Par de personajes; la hija con vasito. Gato negro en la hoja de animales.",
+  "bytes": 84308,
+  "paginas": [
+   "c1 p19"
+  ]
+ },
+ "PJ19": {
+  "nombre": "Verdulero con cajón de frutas y nene con calculadora",
+  "tipo": "vineta",
+  "w": 1400,
+  "h": 954,
+  "pivote": [
+   0.5,
+   0.97
+  ],
+  "fuente": "ChatGPT img2img en-fuente/cap2/p02.png; crudas/c2_pj19.png",
+  "notas": "Incluye balanza sobre mostrador y cajones de fondo, sobre isla de pasto. Sin texto.",
+  "bytes": 89340,
+  "paginas": [
+   "c2 p02"
+  ]
+ },
+ "PJ20": {
+  "nombre": "Nene de rulos sentado en alfombra con escritorio, fichas y ábaco",
+  "tipo": "personaje",
+  "w": 440,
+  "h": 600,
+  "pivote": [
+   0.5,
+   0.97
+  ],
+  "fuente": "ChatGPT img2img en-fuente/cap2; crudas/c2_s1.png",
+  "notas": "Queda un fragmento del primer escritorio a la izquierda (cortado).",
+  "bytes": 48398,
+  "paginas": [
+   "c2 p07"
+  ]
+ },
+ "PU01": {
+  "nombre": "Puesto casita rosa de plantas (Semillitas) con vendedora y gato",
+  "tipo": "puesto",
+  "w": 862,
+  "h": 1100,
+  "pivote": [
+   0.5,
+   0.97
+  ],
+  "fuente": "ChatGPT img2img desde en-fuente/cap1; arte-libro/crudas/c1_*",
+  "notas": "Cartel en blanco: superponer rótulo por código.",
+  "bytes": 81872,
+  "paginas": [
+   "c1 p10",
+   "c1 p13",
+   "c5 p01",
+   "c5 p45"
+  ]
+ },
+ "PU02": {
+  "nombre": "Puesto verde Tax Agency con señora de pelo rosa, nene en banquito y nena en monopatín",
+  "tipo": "puesto",
+  "w": 1201,
+  "h": 966,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT img2img en-fuente/cap2/p05.png; crudas/c2_pu02.png",
+  "notas": "Letrero en nube sin texto. Caja fuerte gris con billetes a un lado. Incluye PJ11 y PJ07 (nena con monopatín).",
+  "bytes": 76442,
+  "paginas": [
+   "c2 p05",
+   "c2 p20",
+   "c1 p09",
+   "c1 p10",
+   "c5 p14"
+  ]
+ },
+ "PU03": {
+  "nombre": "Puesto azul de pastelería Mr. Sweet con chef",
+  "tipo": "puesto",
+  "w": 817,
+  "h": 1100,
+  "pivote": [
+   0.5,
+   0.97
+  ],
+  "fuente": "ChatGPT img2img desde en-fuente/cap1; arte-libro/crudas/c1_*",
+  "notas": "Cartelito en blanco: superponer rótulo por código.",
+  "bytes": 89084,
+  "paginas": [
+   "c1 p09",
+   "c1 p10",
+   "c1 p11"
+  ]
+ },
+ "PU04": {
+  "nombre": "Puesto amarillo del Registro de marcas con nene",
+  "tipo": "puesto",
+  "w": 817,
+  "h": 1100,
+  "pivote": [
+   0.5,
+   0.97
+  ],
+  "fuente": "ChatGPT img2img desde en-fuente/cap1; arte-libro/crudas/c1_*",
+  "notas": "Escudo y panel sin texto: superponer rótulo por código.",
+  "bytes": 78116,
+  "paginas": [
+   "c1 p08",
+   "c1 p09",
+   "c1 p10"
+  ]
+ },
+ "PU05": {
+  "nombre": "Puesto de licuados con toldo arcoíris, nene vendedor y nena",
+  "tipo": "puesto",
+  "w": 854,
+  "h": 1100,
+  "pivote": [
+   0.5,
+   0.97
+  ],
+  "fuente": "ChatGPT img2img desde en-fuente/cap1; arte-libro/crudas/c1_*",
+  "notas": "Cartelitos en blanco: superponer rótulo por código.",
+  "bytes": 86892,
+  "paginas": [
+   "c1 p18",
+   "c1 p20"
+  ]
+ },
+ "PU06": {
+  "nombre": "Puesto de zapatos con vendedora",
+  "tipo": "puesto",
+  "w": 868,
+  "h": 1100,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT img2img en-fuente/cap2/p01.png; crudas/c2_pu06.png",
+  "notas": "Letrero circular rosa en blanco (rótulo por código). Incluye bolso, cesto de ovillos y frasco con monedas.",
+  "bytes": 89488,
+  "paginas": [
+   "c2 p01",
+   "c2 p22",
+   "c1 p20"
+  ]
+ },
+ "PU08": {
+  "nombre": "Carrito de galletas con banquito y canasta",
+  "tipo": "puesto",
+  "w": 889,
+  "h": 900,
+  "pivote": [
+   0.5,
+   0.97
+  ],
+  "fuente": "ChatGPT img2img desde en-fuente/cap1; arte-libro/crudas/c1_*",
+  "notas": "Cartel en blanco: superponer rótulo.",
+  "bytes": 84684,
+  "paginas": [
+   "c1 p16",
+   "c3 p16"
+  ]
+ },
+ "SC-ciudad": {
+  "nombre": "Fondo de la ciudad: cielo, arbustos y calle violeta",
+  "tipo": "escena",
+  "w": 1400,
+  "h": 933,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT img2img desde en-fuente/cap1; arte-libro/crudas/c1_*",
+  "notas": "Sin puestos ni personajes; centro de la calle despejado. Escena opaca.",
+  "bytes": 65328,
+  "paginas": [
+   "c1 p10"
+  ]
+ },
+ "SC-micro": {
+  "nombre": "Isla con micrófono y arcoíris de notas",
+  "tipo": "escena",
+  "w": 827,
+  "h": 1100,
+  "pivote": [
+   0.5,
+   0.95
+  ],
+  "fuente": "ChatGPT img2img desde en-fuente/cap1; arte-libro/crudas/c1_*",
+  "notas": "Isla con cutout; sin texto.",
+  "bytes": 88158,
+  "paginas": [
+   "c1 p25"
+  ]
+ },
+ "SC-microfono": {
+  "nombre": "Escena del micrófono con arcoíris (alias de SC-micro)",
+  "tipo": "escena",
+  "w": 827,
+  "h": 1100,
+  "pivote": [
+   0.5,
+   0.95
+  ],
+  "fuente": "ChatGPT img2img desde en-fuente/cap1; arte-libro/crudas/c1_*",
+  "notas": "Mismo arte que SC-micro (id pedido por los manifiestos v2).",
+  "bytes": 88158,
+  "paginas": [
+   "c1 p25"
+  ]
+ },
+ "SC-pagos": {
+  "nombre": "Señora contando monedas con caja fuerte (escena)",
+  "tipo": "escena",
+  "w": 1400,
+  "h": 933,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT img2img desde en-fuente/cap1; arte-libro/crudas/c1_*",
+  "notas": "Escena opaca rectangular sin marco; el marco verde se pone por CSS.",
+  "bytes": 69484,
+  "paginas": [
+   "c1 p21",
+   "c2 p20"
   ]
  },
  "UI-banner-amarillo": {
@@ -809,6 +2084,32 @@
    "todas"
   ]
  },
+ "UI-trama-crema": {
+  "nombre": "Textura cuadriculada de arcilla crema",
+  "tipo": "ui",
+  "w": 1024,
+  "h": 1024,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "crudas/c2_tex2.png",
+  "notas": "1024x1024 opaco. Hojas de juego de cap2.",
+  "bytes": 21252
+ },
+ "UI-trama-naranja": {
+  "nombre": "Textura cuadriculada de arcilla naranja",
+  "tipo": "ui",
+  "w": 1024,
+  "h": 1024,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "crudas/c2_tex1.png",
+  "notas": "1024x1024 opaco (no RGBA). Fondo de cap2. Cuadrícula ~18 celdas; no garantizada sin costura: usar background-size cover o espejado.",
+  "bytes": 32712
+ },
  "VN01": {
   "nombre": "Veterinaria, mamá y perro con poncho",
   "tipo": "vineta",
@@ -863,6 +2164,58 @@
    "c1 p02",
    "c1 p03",
    "c1 p05"
+  ]
+ },
+ "VN04": {
+  "nombre": "Nena en silla de ruedas con robot volador",
+  "tipo": "vineta",
+  "w": 980,
+  "h": 661,
+  "pivote": [
+   0.5,
+   0.97
+  ],
+  "fuente": "ChatGPT img2img desde en-fuente/cap1; arte-libro/crudas/c1_*",
+  "notas": "Mesa con piezas electrónicas; robot flotando con propulsor. Sin texto.",
+  "bytes": 78236,
+  "paginas": [
+   "c1 p01",
+   "c1 p07"
+  ]
+ },
+ "VN05": {
+  "nombre": "Nena cosiendo zapato y nene con bolso bordado",
+  "tipo": "vineta",
+  "w": 1400,
+  "h": 854,
+  "pivote": [
+   0.5,
+   0.97
+  ],
+  "fuente": "ChatGPT img2img desde en-fuente/cap1; arte-libro/crudas/c1_*",
+  "notas": "Alfombra con mesita, ovillos, zapatos. Se usa grande en p06.",
+  "bytes": 87714,
+  "paginas": [
+   "c1 p01",
+   "c1 p06"
+  ]
+ },
+ "VN06": {
+  "nombre": "Nena guitarrista con arcoíris de notas y bebé",
+  "tipo": "vineta",
+  "w": 980,
+  "h": 610,
+  "pivote": [
+   0.5,
+   0.97
+  ],
+  "fuente": "ChatGPT img2img desde en-fuente/cap1; arte-libro/crudas/c1_*",
+  "notas": "Guitarra, arcoíris, micrófono, ciudad al fondo, bebé con gorro naranja.",
+  "bytes": 84012,
+  "paginas": [
+   "c1 p01",
+   "c1 p07",
+   "c1 p25"
   ]
  }
 }
