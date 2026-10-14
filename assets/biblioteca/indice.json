@@ -1,4 +1,453 @@
 {
+ "AN-gato-negro": {
+  "nombre": "Gato negro saltando",
+  "tipo": "animal",
+  "w": 650,
+  "h": 386,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT crudas/n_c1_hoja1.png",
+  "notas": "Estirado en el aire.",
+  "bytes": 29768,
+  "paginas": [
+   "c1 p19",
+   "c2 p16"
+  ]
+ },
+ "IC-apreton": {
+  "nombre": "Apretón de manos",
+  "tipo": "icono",
+  "w": 256,
+  "h": 149,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT hoja de 12 iconos; arte-libro/crudas/ic_hoja*",
+  "notas": "Ícono de tarjeta/chip. Sin texto.",
+  "bytes": 10278,
+  "paginas": [
+   "c1 p19"
+  ]
+ },
+ "IC-billetes": {
+  "nombre": "Abanico de tres billetes con moneda",
+  "tipo": "icono",
+  "w": 256,
+  "h": 228,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT hoja de 12 iconos; arte-libro/crudas/ic_hoja*",
+  "notas": "Ícono de tarjeta/chip. Sin texto.",
+  "bytes": 13698,
+  "paginas": [
+   "c1 p22"
+  ]
+ },
+ "IC-bolsas": {
+  "nombre": "Dos bolsas de compras rosa y verde",
+  "tipo": "icono",
+  "w": 256,
+  "h": 254,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT hoja de 12 iconos; arte-libro/crudas/ic_hoja*",
+  "notas": "Ícono de tarjeta/chip. Sin texto.",
+  "bytes": 13800,
+  "paginas": [
+   "c1 p19"
+  ]
+ },
+ "IC-burbuja-chat": {
+  "nombre": "Globo de diálogo con tres puntitos",
+  "tipo": "icono",
+  "w": 256,
+  "h": 217,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT hoja de 12 iconos; arte-libro/crudas/ic_hoja*",
+  "notas": "Ícono de tarjeta/chip. Sin texto.",
+  "bytes": 11724,
+  "paginas": [
+   "c1 p25"
+  ]
+ },
+ "IC-canasta": {
+  "nombre": "Canasta de mimbre",
+  "tipo": "icono",
+  "w": 241,
+  "h": 256,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT hoja de 12 iconos; arte-libro/crudas/ic_hoja*",
+  "notas": "Ícono de tarjeta/chip. Sin texto.",
+  "bytes": 16602,
+  "paginas": [
+   "c1 p19"
+  ]
+ },
+ "IC-carpa-feria": {
+  "nombre": "Carpita de feria a rayas con banderín",
+  "tipo": "icono",
+  "w": 224,
+  "h": 256,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT hoja de 12 iconos; arte-libro/crudas/ic_hoja*",
+  "notas": "Ícono de tarjeta/chip. Sin texto.",
+  "bytes": 12982,
+  "paginas": [
+   "c1 p18, p25"
+  ]
+ },
+ "IC-celular": {
+  "nombre": "Celular con pantalla clara",
+  "tipo": "icono",
+  "w": 163,
+  "h": 256,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT hoja de 12 iconos; arte-libro/crudas/ic_hoja*",
+  "notas": "Ícono de tarjeta/chip. Sin texto.",
+  "bytes": 6062,
+  "paginas": [
+   "c1 p22, p25"
+  ]
+ },
+ "IC-cruz": {
+  "nombre": "Cruz roja gruesa",
+  "tipo": "icono",
+  "w": 256,
+  "h": 252,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT hoja de 12 iconos; arte-libro/crudas/ic_hoja*",
+  "notas": "Ícono de tarjeta/chip. Sin texto.",
+  "bytes": 8142,
+  "paginas": [
+   "c2 p20; chips"
+  ]
+ },
+ "IC-cuaderno": {
+  "nombre": "Cuaderno cuadriculado con espiral",
+  "tipo": "icono",
+  "w": 219,
+  "h": 256,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT hoja de 12 iconos; arte-libro/crudas/ic_hoja*",
+  "notas": "Ícono de tarjeta/chip. Sin texto.",
+  "bytes": 11644,
+  "paginas": [
+   "c2 p04"
+  ]
+ },
+ "IC-diario": {
+  "nombre": "Diario doblado sin texto",
+  "tipo": "icono",
+  "w": 256,
+  "h": 219,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT hoja de 12 iconos; arte-libro/crudas/ic_hoja*",
+  "notas": "Ícono de tarjeta/chip. Sin texto.",
+  "bytes": 9776,
+  "paginas": [
+   "c1 p25"
+  ]
+ },
+ "IC-grafico-sube": {
+  "nombre": "Gráfico de barras creciente con flecha",
+  "tipo": "icono",
+  "w": 240,
+  "h": 256,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT hoja de 12 iconos; arte-libro/crudas/ic_hoja*",
+  "notas": "Ícono de tarjeta/chip. Sin texto.",
+  "bytes": 13354,
+  "paginas": [
+   "c1 p18"
+  ]
+ },
+ "IC-laptop": {
+  "nombre": "Laptop celeste abierta",
+  "tipo": "icono",
+  "w": 256,
+  "h": 232,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT hoja de 12 iconos; arte-libro/crudas/ic_hoja*",
+  "notas": "Ícono de tarjeta/chip. Sin texto.",
+  "bytes": 18078,
+  "paginas": [
+   "c1 p18, c2 p04"
+  ]
+ },
+ "IC-mano-levantada": {
+  "nombre": "Manita levantada",
+  "tipo": "icono",
+  "w": 225,
+  "h": 256,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT hoja de 12 iconos; arte-libro/crudas/ic_hoja*",
+  "notas": "Ícono de tarjeta/chip. Sin texto.",
+  "bytes": 11458,
+  "paginas": [
+   "c1 p23"
+  ]
+ },
+ "IC-moneda": {
+  "nombre": "Moneda dorada de frente",
+  "tipo": "icono",
+  "w": 251,
+  "h": 256,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT hoja de 12 iconos; arte-libro/crudas/ic_hoja*",
+  "notas": "Ícono de tarjeta/chip. Sin texto.",
+  "bytes": 10990,
+  "paginas": [
+   "c1 p13"
+  ]
+ },
+ "IC-parlamento": {
+  "nombre": "Edificio con columnas y frontón",
+  "tipo": "icono",
+  "w": 256,
+  "h": 247,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT hoja de 12 iconos; arte-libro/crudas/ic_hoja*",
+  "notas": "Ícono de tarjeta/chip. Sin texto.",
+  "bytes": 12574,
+  "paginas": [
+   "c2 p13"
+  ]
+ },
+ "IC-pensando": {
+  "nombre": "Carita pensando con mano en el mentón",
+  "tipo": "icono",
+  "w": 251,
+  "h": 256,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT hoja de 12 iconos; arte-libro/crudas/ic_hoja*",
+  "notas": "Ícono de tarjeta/chip. Sin texto.",
+  "bytes": 11446,
+  "paginas": [
+   "c1 p23"
+  ]
+ },
+ "IC-personas": {
+  "nombre": "Dos figuras juntas (grupo)",
+  "tipo": "icono",
+  "w": 256,
+  "h": 216,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT hoja de 12 iconos; arte-libro/crudas/ic_hoja*",
+  "notas": "Ícono de tarjeta/chip. Sin texto.",
+  "bytes": 12832,
+  "paginas": [
+   "c2 p13"
+  ]
+ },
+ "IC-planilla": {
+  "nombre": "Planilla de cálculo con cuadrícula",
+  "tipo": "icono",
+  "w": 255,
+  "h": 256,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT; arte-libro/crudas/ic_planilla.png",
+  "notas": "Ícono extra (no estaba en el pedido de 24); reemplaza ▦.",
+  "bytes": 12652,
+  "paginas": [
+   "c2 p04"
+  ]
+ },
+ "IC-regalo": {
+  "nombre": "Caja de regalo con moño",
+  "tipo": "icono",
+  "w": 241,
+  "h": 256,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT hoja de 12 iconos; arte-libro/crudas/ic_hoja*",
+  "notas": "Ícono de tarjeta/chip. Sin texto.",
+  "bytes": 12394,
+  "paginas": [
+   "c1 p13"
+  ]
+ },
+ "IC-reloj": {
+  "nombre": "Reloj de pared redondo",
+  "tipo": "icono",
+  "w": 256,
+  "h": 253,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT hoja de 12 iconos; arte-libro/crudas/ic_hoja*",
+  "notas": "Ícono de tarjeta/chip. Sin texto.",
+  "bytes": 12816,
+  "paginas": [
+   "c1 p23"
+  ]
+ },
+ "IC-signo-pesos": {
+  "nombre": "Moneda con signo $ en relieve",
+  "tipo": "icono",
+  "w": 253,
+  "h": 256,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT hoja de 12 iconos; arte-libro/crudas/ic_hoja*",
+  "notas": "Ícono de tarjeta/chip. Sin texto.",
+  "bytes": 14308,
+  "paginas": [
+   "c1 p23"
+  ]
+ },
+ "IC-tarjeta": {
+  "nombre": "Tarjeta de crédito violeta con chip",
+  "tipo": "icono",
+  "w": 256,
+  "h": 180,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT hoja de 12 iconos; arte-libro/crudas/ic_hoja*",
+  "notas": "Ícono de tarjeta/chip. Sin texto.",
+  "bytes": 7782,
+  "paginas": [
+   "c1 p22"
+  ]
+ },
+ "IC-tienda": {
+  "nombre": "Local con toldo a rayas",
+  "tipo": "icono",
+  "w": 256,
+  "h": 243,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT hoja de 12 iconos; arte-libro/crudas/ic_hoja*",
+  "notas": "Ícono de tarjeta/chip. Sin texto.",
+  "bytes": 10130,
+  "paginas": [
+   "c1 p18"
+  ]
+ },
+ "IC-tilde": {
+  "nombre": "Tilde verde gruesa",
+  "tipo": "icono",
+  "w": 256,
+  "h": 216,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT hoja de 12 iconos; arte-libro/crudas/ic_hoja*",
+  "notas": "Ícono de tarjeta/chip. Sin texto.",
+  "bytes": 8680,
+  "paginas": [
+   "c2 p07, p20; chips"
+  ]
+ },
+ "IC-transferencia": {
+  "nombre": "Dos flechas circulares enfrentadas",
+  "tipo": "icono",
+  "w": 256,
+  "h": 252,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT hoja de 12 iconos; arte-libro/crudas/ic_hoja*",
+  "notas": "Ícono de tarjeta/chip. Sin texto.",
+  "bytes": 14514,
+  "paginas": [
+   "c1 p22"
+  ]
+ },
+ "LG-logo-en": {
+  "nombre": "Logo original Create Your Company (letras de crayón)",
+  "tipo": "logo",
+  "w": 495,
+  "h": 270,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "app/public/assets/personajes/logo-en.png",
+  "notas": "Logo original EN; no redibujar.",
+  "bytes": 31084,
+  "paginas": [
+   "c1 p01"
+  ]
+ },
+ "LG-logo-es": {
+  "nombre": "Logo original Crea tu Empresa (letras de crayón)",
+  "tipo": "logo",
+  "w": 630,
+  "h": 254,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "app/public/assets/personajes/logo.png",
+  "notas": "Logo original; no redibujar.",
+  "bytes": 70806,
+  "paginas": [
+   "c1 p01"
+  ]
+ },
  "OB-abaco": {
   "nombre": "Ábaco de madera con bolitas de colores",
   "tipo": "objeto",
@@ -13,6 +462,22 @@
   "bytes": 26330,
   "paginas": [
    "c2 p07"
+  ]
+ },
+ "OB-arbusto-hojas": {
+  "nombre": "Arbusto de hojas verdes",
+  "tipo": "objeto",
+  "w": 612,
+  "h": 416,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT crudas/n_c1_hoja1.png",
+  "notas": "",
+  "bytes": 34984,
+  "paginas": [
+   "c1 p13"
   ]
  },
  "OB-balanza": {
@@ -100,6 +565,22 @@
    "c5 p09"
   ]
  },
+ "OB-caja-fuerte-verde-escena": {
+  "nombre": "Señora con caja fuerte abierta con gemas y bandeja de monedas",
+  "tipo": "escena",
+  "w": 1100,
+  "h": 728,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT crudas/n_c2_caja.png",
+  "notas": "Sobre panel verde redondeado.",
+  "bytes": 87944,
+  "paginas": [
+   "c2 p20"
+  ]
+ },
  "OB-cajon-frutas": {
   "nombre": "Cajón de madera con frutas y verduras",
   "tipo": "objeto",
@@ -166,6 +647,40 @@
    "c2 p16"
   ]
  },
+ "OB-cartel-galletas": {
+  "nombre": "Pizarra en atril con canasta de frutas y mesita",
+  "tipo": "objeto",
+  "w": 700,
+  "h": 408,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT crudas/n_c1_hoja1.png",
+  "notas": "Pizarra en blanco.",
+  "bytes": 61940,
+  "paginas": [
+   "c1 p16",
+   "c1 p20"
+  ]
+ },
+ "OB-cartel-licuados": {
+  "nombre": "Toldo de licuados con pizarra",
+  "tipo": "objeto",
+  "w": 642,
+  "h": 435,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT crudas/n_c1_hoja1.png",
+  "notas": "Cartel y pizarra en blanco (rotular por DOM).",
+  "bytes": 41264,
+  "paginas": [
+   "c1 p18",
+   "c1 p20"
+  ]
+ },
  "OB-cartel-madera": {
   "nombre": "Cartel de madera vacío con poste",
   "tipo": "objeto",
@@ -178,6 +693,22 @@
   "fuente": "crudas/c2_ob_d.png",
   "notas": "",
   "bytes": 15722,
+  "paginas": [
+   "c2 p12"
+  ]
+ },
+ "OB-cartel-votacion": {
+  "nombre": "Cartel inclinado de votación en curso",
+  "tipo": "objeto",
+  "w": 728,
+  "h": 800,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT crudas/n_c2_cartel.png",
+  "notas": "Sin texto; barras verde/roja/amarilla y reloj.",
+  "bytes": 63628,
   "paginas": [
    "c2 p12"
   ]
@@ -579,6 +1110,39 @@
    "c2 p23"
   ]
  },
+ "OB-manos-votos": {
+  "nombre": "Manos con papelitos de votación (tilde y cruz)",
+  "tipo": "objeto",
+  "w": 800,
+  "h": 612,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT crudas/n_c2_manos.png",
+  "notas": "Para esquinas; se reusa 3 veces con rotación/espejo.",
+  "bytes": 55062,
+  "paginas": [
+   "c2 p13",
+   "c2 p21"
+  ]
+ },
+ "OB-medallon-z": {
+  "nombre": "Medallón rosa con letra Z cursiva y anillo liso (cartel del puesto de zapatos)",
+  "tipo": "objeto",
+  "w": 487,
+  "h": 496,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT hoja de 3 variantes (se eligió la 3); arte-libro/crudas/z_hoja1.png",
+  "notas": "Sobre el medallón en blanco de PU06. Sin otro texto.",
+  "bytes": 32844,
+  "paginas": [
+   "c2 p01, p22; c1 p20"
+  ]
+ },
  "OB-pila-monedas": {
   "nombre": "Tres pilas de monedas doradas",
   "tipo": "objeto",
@@ -693,6 +1257,22 @@
   "bytes": 23296,
   "paginas": [
    "c2 p01",
+   "c2 p22"
+  ]
+ },
+ "PJ-nena-bolso": {
+  "nombre": "Nena de trenzas con bolso tejido",
+  "tipo": "personaje",
+  "w": 564,
+  "h": 900,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT crudas/n_c2_nena.png",
+  "notas": "Cuerpo entero.",
+  "bytes": 70648,
+  "paginas": [
    "c2 p22"
   ]
  },
@@ -1292,6 +1872,38 @@
    "c2 p07"
   ]
  },
+ "PJ21": {
+  "nombre": "Ejecutiva en laptop violeta dentro de arco",
+  "tipo": "personaje",
+  "w": 974,
+  "h": 959,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT crudas/n_c2_pj21.png",
+  "notas": "",
+  "bytes": 72434,
+  "paginas": [
+   "c2 p12"
+  ]
+ },
+ "PJ24": {
+  "nombre": "Señora de pelo rosa en círculo (entrega billetes y documento)",
+  "tipo": "personaje",
+  "w": 898,
+  "h": 900,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT crudas/n_c2_pj24.png",
+  "notas": "Medallón circular con borde crema.",
+  "bytes": 77966,
+  "paginas": [
+   "c2 p17"
+  ]
+ },
  "PU01": {
   "nombre": "Puesto casita rosa de plantas (Semillitas) con vendedora y gato",
   "tipo": "puesto",
@@ -1402,6 +2014,22 @@
    "c1 p20"
   ]
  },
+ "PU07": {
+  "nombre": "Puesto de plantas lila con la P",
+  "tipo": "puesto",
+  "w": 700,
+  "h": 492,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT crudas/n_c2_pu07.png",
+  "notas": "",
+  "bytes": 82616,
+  "paginas": [
+   "c2 p23"
+  ]
+ },
  "PU08": {
   "nombre": "Carrito de galletas con banquito y canasta",
   "tipo": "puesto",
@@ -1418,6 +2046,19 @@
    "c1 p16",
    "c3 p16"
   ]
+ },
+ "SC-campo-escuela": {
+  "nombre": "SC-campo-escuela",
+  "tipo": "objeto",
+  "w": 1400,
+  "h": 784,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "",
+  "notas": "",
+  "bytes": 89792
  },
  "SC-ciudad": {
   "nombre": "Fondo de la ciudad: cielo, arbustos y calle violeta",
@@ -1482,6 +2123,22 @@
   "paginas": [
    "c1 p21",
    "c2 p20"
+  ]
+ },
+ "SC-parque-columpio": {
+  "nombre": "Parque con columpio, centro de salud y policía",
+  "tipo": "escena",
+  "w": 980,
+  "h": 598,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT crudas/n_c2_parque.png",
+  "notas": "Sobre isla de pasto.",
+  "bytes": 82226,
+  "paginas": [
+   "c2 p09"
   ]
  },
  "UI-banner-amarillo": {
@@ -2216,6 +2873,22 @@
    "c1 p01",
    "c1 p07",
    "c1 p25"
+  ]
+ },
+ "VN10": {
+  "nombre": "Mesa de parlamento con seis legisladores",
+  "tipo": "vineta",
+  "w": 1400,
+  "h": 609,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT crudas/n_c2_vn10.png",
+  "notas": "",
+  "bytes": 85292,
+  "paginas": [
+   "c2 p11"
   ]
  }
 }
