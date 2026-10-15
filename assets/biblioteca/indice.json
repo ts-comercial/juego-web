@@ -2890,5 +2890,85 @@
   "paginas": [
    "c2 p11"
   ]
+ },
+ "WEB-mecanica": {
+  "nombre": "Mecánica de mameluco con carburador y motor",
+  "tipo": "personaje",
+  "w": 698,
+  "h": 1000,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT; arte-libro/crudas/web_mecanica_1.png",
+  "notas": "Sprite con alfa, base metálica y herramientas incluidas. Motor algo fotorrealista.",
+  "bytes": 79042,
+  "paginas": [
+   "web"
+  ]
+ },
+ "WEB-nene-compras": {
+  "nombre": "Nene de buzo violeta caminando apurado con bolsa de compras",
+  "tipo": "personaje",
+  "w": 780,
+  "h": 943,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT; arte-libro/crudas/web_nene_compras_1.png",
+  "notas": "Sprite con alfa, pasto incluido, sin sombra. Recreación en arcilla de ilustración a mano (compras-necesidad.png). Fondo magenta (el pasto es verde).",
+  "bytes": 73966,
+  "paginas": [
+   "web"
+  ]
+ },
+ "WEB-nene-pasto": {
+  "nombre": "Nene empujando cortadora de césped sobre pasto",
+  "tipo": "personaje",
+  "w": 1000,
+  "h": 630,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT; arte-libro/crudas/web_nene_pasto_1.png",
+  "notas": "Sprite con alfa, pasto incluido, sin sombra. Recreación en arcilla de ilustración a mano.",
+  "bytes": 85838,
+  "paginas": [
+   "web"
+  ]
+ },
+ "WEB-tienda-telas": {
+  "nombre": "Tienda de telas: vendedora y nene con frasco de botones",
+  "tipo": "escena",
+  "w": 1100,
+  "h": 733,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT; arte-libro/crudas/web_tienda_telas_1.png",
+  "notas": "Escena completa 3:2 sin alfa (fondo cálido propio), WebP 1100x733. El nene apoya la mano en el frasco en vez de abrazarlo.",
+  "bytes": 139130,
+  "paginas": [
+   "web"
+  ]
+ },
+ "WEB-zapatera": {
+  "nombre": "Zapatera: nena con delantal violeta a rayas cosiendo un zapato",
+  "tipo": "personaje",
+  "w": 589,
+  "h": 1024,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT; arte-libro/crudas/web_zapatera_1.png",
+  "notas": "Sprite con alfa, pasto incluido, sin sombra. Recreación en arcilla de zapatera.png. El zapato queda marrón con tiras naranjas y aguja. Fondo magenta (el pasto es verde).",
+  "bytes": 81552,
+  "paginas": [
+   "web"
+  ]
  }
 }
