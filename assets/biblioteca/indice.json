@@ -320,6 +320,22 @@
    "c4 p16"
   ]
  },
+ "IC-flecha-abajo": {
+  "nombre": "Flecha roja gruesa abajo-derecha",
+  "tipo": "icono",
+  "w": 477,
+  "h": 382,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c4s_*.png",
+  "notas": "",
+  "bytes": 15372,
+  "paginas": [
+   "c4 p31"
+  ]
+ },
  "IC-gorra": {
   "nombre": "Gorra azul",
   "tipo": "icono",
@@ -1457,6 +1473,22 @@
    "c2 p14"
   ]
  },
+ "OB-etiqueta-precio": {
+  "nombre": "Etiqueta de precio amarilla con hilo",
+  "tipo": "objeto",
+  "w": 586,
+  "h": 468,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c4s_*.png",
+  "notas": "",
+  "bytes": 21238,
+  "paginas": [
+   "c4 p43"
+  ]
+ },
  "OB-fabrica-juguetes": {
   "nombre": "Fábrica de juguetes blanca con techo violeta",
   "tipo": "objeto",
@@ -1636,6 +1668,38 @@
    "c5 p50,p54 y otros"
   ]
  },
+ "OB-heladera-helados": {
+  "nombre": "Heladera azul con tres tinas de helado",
+  "tipo": "objeto",
+  "w": 614,
+  "h": 410,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c4s_*.png",
+  "notas": "",
+  "bytes": 34786,
+  "paginas": [
+   "c4 p39"
+  ]
+ },
+ "OB-helado-cono": {
+  "nombre": "Cono de helado de dos bochas con cereza",
+  "tipo": "objeto",
+  "w": 303,
+  "h": 522,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c4s_*.png",
+  "notas": "",
+  "bytes": 25464,
+  "paginas": [
+   "c4 p25,p37"
+  ]
+ },
  "OB-hielos": {
   "nombre": "Dos cubitos de hielo celestes",
   "tipo": "objeto",
@@ -1698,6 +1762,22 @@
   "bytes": 21060,
   "paginas": [
    "c5 p63"
+  ]
+ },
+ "OB-ingredientes-helado": {
+  "nombre": "Botella de leche, frutilla y manteca sobre tabla",
+  "tipo": "objeto",
+  "w": 479,
+  "h": 425,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c4s_*.png",
+  "notas": "",
+  "bytes": 24700,
+  "paginas": [
+   "c4 p39"
   ]
  },
  "OB-lapiz-g": {
@@ -1884,6 +1964,22 @@
    "c2 p01, p22; c1 p20"
   ]
  },
+ "OB-mesa-sillas": {
+  "nombre": "Mesa redonda de madera con dos sillas",
+  "tipo": "objeto",
+  "w": 700,
+  "h": 390,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c4s_*.png",
+  "notas": "",
+  "bytes": 58056,
+  "paginas": [
+   "c4 p39"
+  ]
+ },
  "OB-moneda-btc": {
   "nombre": "Dos monedas cripto: plateada B y dorada D",
   "tipo": "objeto",
@@ -1898,6 +1994,22 @@
   "bytes": 24536,
   "paginas": [
    "c5 p33"
+  ]
+ },
+ "OB-palanca": {
+  "nombre": "Balancín amarillo sobre fulcro de madera (inclinado, izquierda arriba; usar espejo)",
+  "tipo": "objeto",
+  "w": 700,
+  "h": 329,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c4s_*.png",
+  "notas": "",
+  "bytes": 24840,
+  "paginas": [
+   "c4 p31"
   ]
  },
  "OB-pila-billetes": {
@@ -2244,6 +2356,22 @@
   "bytes": 60272,
   "paginas": [
    "c5 p41"
+  ]
+ },
+ "PJ-nene-gorra-planta": {
+  "nombre": "Nene de gorra naranja con maceta de planta con monedas",
+  "tipo": "personaje",
+  "w": 409,
+  "h": 900,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c4s_*.png",
+  "notas": "",
+  "bytes": 74390,
+  "paginas": [
+   "c4 p36"
   ]
  },
  "PJ-nene-vendedor": {
@@ -3349,6 +3477,22 @@
   "bytes": 47346,
   "paginas": [
    "c4 p15"
+  ]
+ },
+ "SC-heladeria": {
+  "nombre": "Heladería de arcilla con toldo rosa y blanco, vidriera con helados",
+  "tipo": "escena",
+  "w": 646,
+  "h": 493,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c4s_*.png",
+  "notas": "",
+  "bytes": 43654,
+  "paginas": [
+   "c4 p25,p37"
   ]
  },
  "SC-micro": {
