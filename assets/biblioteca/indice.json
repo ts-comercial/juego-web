@@ -16,6 +16,38 @@
    "c2 p16"
   ]
  },
+ "IC-advertencia": {
+  "nombre": "advertencia",
+  "tipo": "icono",
+  "w": 256,
+  "h": 223,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c23_IC.png",
+  "notas": "Rosa Ícono sin texto.",
+  "bytes": 10402,
+  "paginas": [
+   "c2 p43"
+  ]
+ },
+ "IC-alerta": {
+  "nombre": "alerta",
+  "tipo": "icono",
+  "w": 256,
+  "h": 223,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c23_IC.png",
+  "notas": "Naranja Ícono sin texto.",
+  "bytes": 9508,
+  "paginas": [
+   "c3 p23"
+  ]
+ },
  "IC-apreton": {
   "nombre": "Apretón de manos",
   "tipo": "icono",
@@ -48,6 +80,22 @@
    "c1 p22"
   ]
  },
+ "IC-bolsa-dinero": {
+  "nombre": "Bolsita de dinero con $",
+  "tipo": "icono",
+  "w": 211,
+  "h": 256,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S13.png",
+  "notas": "",
+  "bytes": 12200,
+  "paginas": [
+   "c5 p57"
+  ]
+ },
  "IC-bolsas": {
   "nombre": "Dos bolsas de compras rosa y verde",
   "tipo": "icono",
@@ -64,6 +112,38 @@
    "c1 p19"
   ]
  },
+ "IC-bombilla": {
+  "nombre": "bombilla",
+  "tipo": "icono",
+  "w": 234,
+  "h": 256,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c23_IC.png",
+  "notas": "Ícono sin texto.",
+  "bytes": 11652,
+  "paginas": [
+   "c3 p15"
+  ]
+ },
+ "IC-botin": {
+  "nombre": "Botín de fútbol azul",
+  "tipo": "icono",
+  "w": 256,
+  "h": 182,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S13.png",
+  "notas": "",
+  "bytes": 12416,
+  "paginas": [
+   "c5 p58"
+  ]
+ },
  "IC-burbuja-chat": {
   "nombre": "Globo de diálogo con tres puntitos",
   "tipo": "icono",
@@ -78,6 +158,38 @@
   "bytes": 11724,
   "paginas": [
    "c1 p25"
+  ]
+ },
+ "IC-calculadora-123": {
+  "nombre": "Calculadora violeta con visor 123",
+  "tipo": "icono",
+  "w": 402,
+  "h": 404,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S12.png",
+  "notas": "",
+  "bytes": 23336,
+  "paginas": [
+   "c6 p06"
+  ]
+ },
+ "IC-calendario": {
+  "nombre": "Calendario de arcilla",
+  "tipo": "icono",
+  "w": 254,
+  "h": 256,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S13.png",
+  "notas": "",
+  "bytes": 13920,
+  "paginas": [
+   "c4 p13"
   ]
  },
  "IC-canasta": {
@@ -128,6 +240,22 @@
    "c1 p22, p25"
   ]
  },
+ "IC-corazon": {
+  "nombre": "Corazón violeta de arcilla",
+  "tipo": "icono",
+  "w": 410,
+  "h": 339,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S12.png",
+  "notas": "",
+  "bytes": 17682,
+  "paginas": [
+   "c6 p12"
+  ]
+ },
  "IC-cruz": {
   "nombre": "Cruz roja gruesa",
   "tipo": "icono",
@@ -176,6 +304,70 @@
    "c1 p25"
   ]
  },
+ "IC-engranaje-moneda": {
+  "nombre": "Engranaje con moneda y flechas",
+  "tipo": "icono",
+  "w": 256,
+  "h": 234,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S13.png",
+  "notas": "",
+  "bytes": 17152,
+  "paginas": [
+   "c4 p16"
+  ]
+ },
+ "IC-gorra": {
+  "nombre": "Gorra azul",
+  "tipo": "icono",
+  "w": 256,
+  "h": 187,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S13.png",
+  "notas": "",
+  "bytes": 10150,
+  "paginas": [
+   "c5 p57"
+  ]
+ },
+ "IC-gota": {
+  "nombre": "gota",
+  "tipo": "icono",
+  "w": 188,
+  "h": 256,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c23_IC.png",
+  "notas": "Ícono sin texto.",
+  "bytes": 10058,
+  "paginas": [
+   "c3 p14"
+  ]
+ },
+ "IC-grafico-baja": {
+  "nombre": "Gráfico de barras que baja con flecha roja",
+  "tipo": "icono",
+  "w": 438,
+  "h": 395,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S2.png",
+  "notas": "",
+  "bytes": 17836,
+  "paginas": [
+   "c4 p06; c5 p56"
+  ]
+ },
  "IC-grafico-sube": {
   "nombre": "Gráfico de barras creciente con flecha",
   "tipo": "icono",
@@ -192,6 +384,38 @@
    "c1 p18"
   ]
  },
+ "IC-guantes": {
+  "nombre": "Guantes de arquero",
+  "tipo": "icono",
+  "w": 256,
+  "h": 184,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S13.png",
+  "notas": "",
+  "bytes": 15416,
+  "paginas": [
+   "c5 p58"
+  ]
+ },
+ "IC-lamparita": {
+  "nombre": "Lamparita amarilla",
+  "tipo": "icono",
+  "w": 256,
+  "h": 220,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S13.png",
+  "notas": "",
+  "bytes": 10606,
+  "paginas": [
+   "c5 p58"
+  ]
+ },
  "IC-laptop": {
   "nombre": "Laptop celeste abierta",
   "tipo": "icono",
@@ -206,6 +430,54 @@
   "bytes": 18078,
   "paginas": [
    "c1 p18, c2 p04"
+  ]
+ },
+ "IC-llave": {
+  "nombre": "Llave dorada",
+  "tipo": "icono",
+  "w": 256,
+  "h": 219,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S13.png",
+  "notas": "",
+  "bytes": 11584,
+  "paginas": [
+   "c5 p58"
+  ]
+ },
+ "IC-lluvia": {
+  "nombre": "lluvia",
+  "tipo": "icono",
+  "w": 249,
+  "h": 256,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c23_IC.png",
+  "notas": "Ícono sin texto.",
+  "bytes": 14368,
+  "paginas": [
+   "c3 p21"
+  ]
+ },
+ "IC-mano-apunta": {
+  "nombre": "Mano señalando a la derecha",
+  "tipo": "icono",
+  "w": 256,
+  "h": 174,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S13.png",
+  "notas": "",
+  "bytes": 8884,
+  "paginas": [
+   "c5 p56"
   ]
  },
  "IC-mano-levantada": {
@@ -240,6 +512,38 @@
    "c1 p13"
   ]
  },
+ "IC-no-se": {
+  "nombre": "Persona encogida de hombros",
+  "tipo": "icono",
+  "w": 256,
+  "h": 236,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S13.png",
+  "notas": "",
+  "bytes": 15628,
+  "paginas": [
+   "c5 p56"
+  ]
+ },
+ "IC-paraguas": {
+  "nombre": "Paraguas violeta",
+  "tipo": "icono",
+  "w": 256,
+  "h": 227,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S13.png",
+  "notas": "",
+  "bytes": 11254,
+  "paginas": [
+   "c5 p57"
+  ]
+ },
  "IC-parlamento": {
   "nombre": "Edificio con columnas y frontón",
   "tipo": "icono",
@@ -254,6 +558,22 @@
   "bytes": 12574,
   "paginas": [
    "c2 p13"
+  ]
+ },
+ "IC-pelota": {
+  "nombre": "Pelota de fútbol",
+  "tipo": "icono",
+  "w": 256,
+  "h": 243,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S13.png",
+  "notas": "",
+  "bytes": 12290,
+  "paginas": [
+   "c5 p58"
   ]
  },
  "IC-pensando": {
@@ -304,6 +624,22 @@
    "c2 p04"
   ]
  },
+ "IC-pulgar": {
+  "nombre": "pulgar",
+  "tipo": "icono",
+  "w": 256,
+  "h": 254,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c23_IC.png",
+  "notas": "Verde Ícono sin texto.",
+  "bytes": 11034,
+  "paginas": [
+   "c2 p43"
+  ]
+ },
  "IC-regalo": {
   "nombre": "Caja de regalo con moño",
   "tipo": "icono",
@@ -350,6 +686,38 @@
   "bytes": 14308,
   "paginas": [
    "c1 p23"
+  ]
+ },
+ "IC-sol": {
+  "nombre": "sol",
+  "tipo": "icono",
+  "w": 256,
+  "h": 254,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c23_IC.png",
+  "notas": "Sonriente Ícono sin texto.",
+  "bytes": 15308,
+  "paginas": [
+   "c3 p21"
+  ]
+ },
+ "IC-sol-nube": {
+  "nombre": "sol-nube",
+  "tipo": "icono",
+  "w": 256,
+  "h": 226,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c23_IC.png",
+  "notas": "Ícono sin texto.",
+  "bytes": 11930,
+  "paginas": [
+   "c3 p21"
   ]
  },
  "IC-tarjeta": {
@@ -464,6 +832,41 @@
    "c2 p07"
   ]
  },
+ "OB-acciones": {
+  "nombre": "Tres hojas de acciones con dos chicos",
+  "tipo": "objeto",
+  "w": 512,
+  "h": 435,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S1.png",
+  "notas": "",
+  "bytes": 38722,
+  "paginas": [
+   "c5 p61; c6 p03,p06,p08 (OB-acciones-bonos)"
+  ]
+ },
+ "OB-alcancia": {
+  "nombre": "Cerdito alcancía rosa con moneda en la ranura",
+  "tipo": "objeto",
+  "w": 414,
+  "h": 439,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c23_S1.png",
+  "notas": "También se usa como OB-chanchito.",
+  "bytes": 27382,
+  "paginas": [
+   "c2 p30",
+   "c2 p31",
+   "c3 p13",
+   "c3 p22"
+  ]
+ },
  "OB-arbusto-hojas": {
   "nombre": "Arbusto de hojas verdes",
   "tipo": "objeto",
@@ -497,6 +900,54 @@
    "c2 p07"
   ]
  },
+ "OB-balanza-platillos": {
+  "nombre": "Balanza de dos platillos dorada, brazo inclinado a la izquierda",
+  "tipo": "objeto",
+  "w": 498,
+  "h": 445,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c23_S1.png",
+  "notas": "",
+  "bytes": 25082,
+  "paginas": [
+   "c3 p25"
+  ]
+ },
+ "OB-banco-casita": {
+  "nombre": "Casita de banco azul y amarilla",
+  "tipo": "objeto",
+  "w": 431,
+  "h": 450,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S3.png",
+  "notas": "",
+  "bytes": 25600,
+  "paginas": [
+   "c5 p12"
+  ]
+ },
+ "OB-billetera": {
+  "nombre": "Billetera violeta y naranja con billetes",
+  "tipo": "objeto",
+  "w": 452,
+  "h": 457,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c23_S3.png",
+  "notas": "",
+  "bytes": 42952,
+  "paginas": [
+   "c3 p03"
+  ]
+ },
  "OB-bolsa-compras": {
   "nombre": "Bolsa de papel de compras con verduras",
   "tipo": "objeto",
@@ -513,6 +964,38 @@
    "c3 p11"
   ]
  },
+ "OB-bono": {
+  "nombre": "Pila de 3 bonos financieros verdes y crema con sello",
+  "tipo": "objeto",
+  "w": 451,
+  "h": 400,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S1.png",
+  "notas": "",
+  "bytes": 30874,
+  "paginas": [
+   "c4 p02,p13,p14; c5 p28..p31,p33,p40,p45..p47,p49"
+  ]
+ },
+ "OB-bono-par": {
+  "nombre": "Dos bonos superpuestos dorado y violeta",
+  "tipo": "objeto",
+  "w": 478,
+  "h": 431,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S1.png",
+  "notas": "",
+  "bytes": 32024,
+  "paginas": [
+   "c5 p41,p45,p50"
+  ]
+ },
  "OB-brote": {
   "nombre": "Brote de planta en tierra",
   "tipo": "objeto",
@@ -527,6 +1010,22 @@
   "bytes": 20258,
   "paginas": [
    "c1 p05"
+  ]
+ },
+ "OB-caballete": {
+  "nombre": "Cuadro de paisaje en caballete de madera",
+  "tipo": "objeto",
+  "w": 369,
+  "h": 474,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S3.png",
+  "notas": "",
+  "bytes": 25706,
+  "paginas": [
+   "c5 p06,p07; c6 p03"
   ]
  },
  "OB-caja-carton": {
@@ -713,6 +1212,22 @@
    "c2 p12"
   ]
  },
+ "OB-casita": {
+  "nombre": "Casita roja de techo verde con macetas",
+  "tipo": "objeto",
+  "w": 460,
+  "h": 435,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S3.png",
+  "notas": "",
+  "bytes": 27860,
+  "paginas": [
+   "c5 p07,p09; c6 p03,p06,p08,p09"
+  ]
+ },
  "OB-celu-carrito": {
   "nombre": "Celular grande con carrito de compras y licuado",
   "tipo": "objeto",
@@ -730,6 +1245,56 @@
    "c1 p20"
   ]
  },
+ "OB-celu-dinero": {
+  "nombre": "Celular amarillo con signo $",
+  "tipo": "objeto",
+  "w": 240,
+  "h": 399,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c23_S2.png",
+  "notas": "",
+  "bytes": 10556,
+  "paginas": [
+   "c3 p07",
+   "c3 p08"
+  ]
+ },
+ "OB-certificado-deposito": {
+  "nombre": "Certificado de depósito a plazo fijo violeta",
+  "tipo": "objeto",
+  "w": 443,
+  "h": 346,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S1.png",
+  "notas": "",
+  "bytes": 21506,
+  "paginas": [
+   "c4 p02"
+  ]
+ },
+ "OB-chanchito": {
+  "nombre": "Chanchito alcancía rosa con flores (copia de OB-alcancia)",
+  "tipo": "objeto",
+  "w": 414,
+  "h": 439,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c23_S1.png",
+  "notas": "",
+  "bytes": 27382,
+  "paginas": [
+   "c3 p13",
+   "c3 p22"
+  ]
+ },
  "OB-cofre-monedas": {
   "nombre": "Cofre de madera con monedas",
   "tipo": "objeto",
@@ -745,6 +1310,38 @@
   "paginas": [
    "c2 p20",
    "c1 p21"
+  ]
+ },
+ "OB-cohete": {
+  "nombre": "Cohete celeste y rosa con $ y chispas",
+  "tipo": "objeto",
+  "w": 474,
+  "h": 422,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c23_S2.png",
+  "notas": "",
+  "bytes": 21878,
+  "paginas": [
+   "c3 p19"
+  ]
+ },
+ "OB-cohete-naranja": {
+  "nombre": "Cohete naranja con ventanitas sobre base de tablas",
+  "tipo": "objeto",
+  "w": 453,
+  "h": 492,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S12.png",
+  "notas": "",
+  "bytes": 30030,
+  "paginas": [
+   "c5 p06"
   ]
  },
  "OB-crayon-violeta": {
@@ -811,6 +1408,22 @@
    "c4 p02"
   ]
  },
+ "OB-edificio-startup": {
+  "nombre": "Edificio de oficinas beige con chicos en ventanas",
+  "tipo": "objeto",
+  "w": 446,
+  "h": 512,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S12.png",
+  "notas": "",
+  "bytes": 33684,
+  "paginas": [
+   "c5 p06"
+  ]
+ },
  "OB-escalera-resultados": {
   "nombre": "Escalera de 7 barras de colores (estado de resultados)",
   "tipo": "objeto",
@@ -842,6 +1455,22 @@
   "paginas": [
    "c2 p09",
    "c2 p14"
+  ]
+ },
+ "OB-fabrica-juguetes": {
+  "nombre": "Fábrica de juguetes blanca con techo violeta",
+  "tipo": "objeto",
+  "w": 467,
+  "h": 475,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c23_S2.png",
+  "notas": "",
+  "bytes": 17220,
+  "paginas": [
+   "c2 p37"
   ]
  },
  "OB-fajo-billetes": {
@@ -975,6 +1604,54 @@
    "c2 p06"
   ]
  },
+ "OB-globos-pregunta": {
+  "nombre": "Dos globos de diálogo vacíos (? y garabatos)",
+  "tipo": "objeto",
+  "w": 487,
+  "h": 355,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S2.png",
+  "notas": "",
+  "bytes": 21356,
+  "paginas": [
+   "c5 p63"
+  ]
+ },
+ "OB-grafico-barras": {
+  "nombre": "Gráfico de barras de colores con flecha ascendente",
+  "tipo": "objeto",
+  "w": 435,
+  "h": 423,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S2.png",
+  "notas": "",
+  "bytes": 18494,
+  "paginas": [
+   "c5 p50,p54 y otros"
+  ]
+ },
+ "OB-hielos": {
+  "nombre": "Dos cubitos de hielo celestes",
+  "tipo": "objeto",
+  "w": 292,
+  "h": 408,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c23_S1.png",
+  "notas": "",
+  "bytes": 26268,
+  "paginas": [
+   "c2 p32"
+  ]
+ },
  "OB-hospital": {
   "nombre": "Hospital pequeño con cruz azul",
   "tipo": "objeto",
@@ -1005,6 +1682,22 @@
   "bytes": 19882,
   "paginas": [
    "c1 p14"
+  ]
+ },
+ "OB-idea-regalo": {
+  "nombre": "Lamparita y regalo violeta con moño",
+  "tipo": "objeto",
+  "w": 496,
+  "h": 414,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S2.png",
+  "notas": "",
+  "bytes": 21060,
+  "paginas": [
+   "c5 p63"
   ]
  },
  "OB-lapiz-g": {
@@ -1060,6 +1753,22 @@
    "c1 p23"
   ]
  },
+ "OB-libreta-7": {
+  "nombre": "Libreta de espiral verde sobre mesa con lápiz y un 7 rojo",
+  "tipo": "objeto",
+  "w": 515,
+  "h": 415,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S3.png",
+  "notas": "",
+  "bytes": 40332,
+  "paginas": [
+   "c5 p52"
+  ]
+ },
  "OB-licuadora": {
   "nombre": "Licuadora con frutas",
   "tipo": "objeto",
@@ -1075,6 +1784,22 @@
   "paginas": [
    "c1 p17",
    "c1 p18"
+  ]
+ },
+ "OB-limon": {
+  "nombre": "Limón amarillo entero",
+  "tipo": "objeto",
+  "w": 415,
+  "h": 318,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c23_S1.png",
+  "notas": "",
+  "bytes": 14298,
+  "paginas": [
+   "c3 p27"
   ]
  },
  "OB-lupa": {
@@ -1127,6 +1852,22 @@
    "c2 p21"
   ]
  },
+ "OB-maquina-juguetes": {
+  "nombre": "Máquina azul con cinta transportadora",
+  "tipo": "objeto",
+  "w": 585,
+  "h": 389,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c23_S2.png",
+  "notas": "",
+  "bytes": 23672,
+  "paginas": [
+   "c2 p38"
+  ]
+ },
  "OB-medallon-z": {
   "nombre": "Medallón rosa con letra Z cursiva y anillo liso (cartel del puesto de zapatos)",
   "tipo": "objeto",
@@ -1141,6 +1882,40 @@
   "bytes": 32844,
   "paginas": [
    "c2 p01, p22; c1 p20"
+  ]
+ },
+ "OB-moneda-btc": {
+  "nombre": "Dos monedas cripto: plateada B y dorada D",
+  "tipo": "objeto",
+  "w": 489,
+  "h": 396,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S2.png",
+  "notas": "",
+  "bytes": 24536,
+  "paginas": [
+   "c5 p33"
+  ]
+ },
+ "OB-pila-billetes": {
+  "nombre": "Montón de billetes y monedas",
+  "tipo": "objeto",
+  "w": 603,
+  "h": 490,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c23_S3.png",
+  "notas": "",
+  "bytes": 59348,
+  "paginas": [
+   "c3 p02",
+   "c3 p03",
+   "c3 p07"
   ]
  },
  "OB-pila-monedas": {
@@ -1176,6 +1951,70 @@
   "paginas": [
    "c1 p05",
    "c1 p02"
+  ]
+ },
+ "OB-prestamo-bancario": {
+  "nombre": "Hoja de préstamo bancario con sello y firma",
+  "tipo": "objeto",
+  "w": 400,
+  "h": 460,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S1.png",
+  "notas": "",
+  "bytes": 23918,
+  "paginas": [
+   "c4 p02"
+  ]
+ },
+ "OB-saco-dolar": {
+  "nombre": "Saco de arpillera con signo $",
+  "tipo": "objeto",
+  "w": 434,
+  "h": 523,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c23_S3.png",
+  "notas": "",
+  "bytes": 52782,
+  "paginas": [
+   "c3 p09"
+  ]
+ },
+ "OB-saco-manos": {
+  "nombre": "Saco de arpillera con flecha ascendente y manos echando billetes",
+  "tipo": "objeto",
+  "w": 524,
+  "h": 498,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S1.png",
+  "notas": "",
+  "bytes": 50490,
+  "paginas": [
+   "c4 p03,p20; c5 p34,p44,p48"
+  ]
+ },
+ "OB-semaforo": {
+  "nombre": "Semáforo violeta con 3 luces",
+  "tipo": "objeto",
+  "w": 174,
+  "h": 460,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c23_S2.png",
+  "notas": "",
+  "bytes": 12428,
+  "paginas": [
+   "c3 p29"
   ]
  },
  "OB-sobres": {
@@ -1227,6 +2066,38 @@
    "c4 p09"
   ]
  },
+ "OB-testamento": {
+  "nombre": "Pergamino con árbol familiar, pluma y sello de lacre",
+  "tipo": "objeto",
+  "w": 455,
+  "h": 441,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S3.png",
+  "notas": "",
+  "bytes": 32038,
+  "paginas": [
+   "c6 p04,p07"
+  ]
+ },
+ "OB-torta": {
+  "nombre": "Gráfico de torta de colores",
+  "tipo": "objeto",
+  "w": 396,
+  "h": 416,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S2.png",
+  "notas": "",
+  "bytes": 21970,
+  "paginas": [
+   "c5 p54"
+  ]
+ },
  "OB-urna": {
   "nombre": "Urna de votación azul con sobre",
   "tipo": "objeto",
@@ -1241,6 +2112,56 @@
   "bytes": 18986,
   "paginas": [
    "c2 p13"
+  ]
+ },
+ "OB-vaso-limonada": {
+  "nombre": "Vaso de limonada con pajita, rodaja y moneda",
+  "tipo": "objeto",
+  "w": 438,
+  "h": 445,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c23_S1.png",
+  "notas": "",
+  "bytes": 27510,
+  "paginas": [
+   "c2 p32",
+   "c3 p26",
+   "c3 p28"
+  ]
+ },
+ "OB-vaso-limonada-partido": {
+  "nombre": "Vaso de limonada con línea punteada (ganancia arriba, gastos abajo)",
+  "tipo": "objeto",
+  "w": 422,
+  "h": 486,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c23_S1.png",
+  "notas": "",
+  "bytes": 28864,
+  "paginas": [
+   "c3 p26"
+  ]
+ },
+ "OB-velero": {
+  "nombre": "Velero de colores en bote de madera con ancla",
+  "tipo": "objeto",
+  "w": 430,
+  "h": 473,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S3.png",
+  "notas": "",
+  "bytes": 26300,
+  "paginas": [
+   "c6 p03"
   ]
  },
  "OB-zapatos": {
@@ -1293,6 +2214,38 @@
    "c1 p20"
   ]
  },
+ "PJ-nena-rulos-rosa": {
+  "nombre": "Nena de rodetes con buzo rosa y corazón, mano en la cintura",
+  "tipo": "personaje",
+  "w": 380,
+  "h": 760,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S9.png",
+  "notas": "",
+  "bytes": 65722,
+  "paginas": [
+   "c6 p12"
+  ]
+ },
+ "PJ-nena-tablet-verde": {
+  "nombre": "Nena de trenzas suéter verde con tablet violeta, perfil",
+  "tipo": "personaje",
+  "w": 426,
+  "h": 760,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S8.png",
+  "notas": "",
+  "bytes": 60272,
+  "paginas": [
+   "c5 p41"
+  ]
+ },
  "PJ-nene-vendedor": {
   "nombre": "Nene vendedor de licuados (rayas y delantal)",
   "tipo": "personaje",
@@ -1308,6 +2261,23 @@
   "paginas": [
    "c1 p18",
    "c1 p20"
+  ]
+ },
+ "PJ-tomi": {
+  "nombre": "Tomi, nene de pelo oscuro y remera azul",
+  "tipo": "personaje",
+  "w": 532,
+  "h": 1100,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c23_PJ-tomi.png",
+  "notas": "",
+  "bytes": 85332,
+  "paginas": [
+   "c2 p35",
+   "c3 p28"
   ]
  },
  "PJ01": {
@@ -1638,6 +2608,38 @@
    "c2 p05"
   ]
  },
+ "PJ08": {
+  "nombre": "Nene con carretilla de macetas sobre pasto",
+  "tipo": "personaje",
+  "w": 1100,
+  "h": 764,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c23_PJ08.png",
+  "notas": "",
+  "bytes": 77204,
+  "paginas": [
+   "c3 p15"
+  ]
+ },
+ "PJ09": {
+  "nombre": "Nena castaña de suéter violeta con tablet en escritorio redondo con taza, bloc, calculadora y planilla",
+  "tipo": "personaje",
+  "w": 727,
+  "h": 730,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S7.png",
+  "notas": "",
+  "bytes": 73352,
+  "paginas": [
+   "c5 p03"
+  ]
+ },
  "PJ10": {
   "nombre": "Chef con bandeja de cupcakes",
   "tipo": "personaje",
@@ -1840,6 +2842,70 @@
    "c1 p19"
   ]
  },
+ "PJ14": {
+  "nombre": "Nena con bolsa de alimento para gatos, camina",
+  "tipo": "personaje",
+  "w": 599,
+  "h": 1100,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c23_PJ14.png",
+  "notas": "",
+  "bytes": 80096,
+  "paginas": [
+   "c3 p04"
+  ]
+ },
+ "PJ15": {
+  "nombre": "Mamá y nena con auriculares, monedas",
+  "tipo": "personaje",
+  "w": 804,
+  "h": 1100,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c23_PJ15.png",
+  "notas": "",
+  "bytes": 84324,
+  "paginas": [
+   "c3 p06"
+  ]
+ },
+ "PJ16": {
+  "nombre": "Nena tomando un helado",
+  "tipo": "personaje",
+  "w": 604,
+  "h": 1100,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c23_PJ16.png",
+  "notas": "",
+  "bytes": 76900,
+  "paginas": [
+   "c3 p11"
+  ]
+ },
+ "PJ17": {
+  "nombre": "Nene rompiendo chanchito con martillo sobre alfombra",
+  "tipo": "personaje",
+  "w": 1100,
+  "h": 741,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c23_PJ17.png",
+  "notas": "",
+  "bytes": 75034,
+  "paginas": [
+   "c3 p10"
+  ]
+ },
  "PJ19": {
   "nombre": "Verdulero con cajón de frutas y nene con calculadora",
   "tipo": "vineta",
@@ -1902,6 +2968,134 @@
   "bytes": 77966,
   "paginas": [
    "c2 p17"
+  ]
+ },
+ "PJ28": {
+  "nombre": "Nene de camisa a cuadros abriendo maletín con billetes y bonos en alfombra",
+  "tipo": "personaje",
+  "w": 760,
+  "h": 721,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S10.png",
+  "notas": "",
+  "bytes": 82902,
+  "paginas": [
+   "c5 p08"
+  ]
+ },
+ "PJ29": {
+  "nombre": "Nene de suéter verde con álbum de figuritas en alfombra",
+  "tipo": "personaje",
+  "w": 736,
+  "h": 733,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S10.png",
+  "notas": "",
+  "bytes": 69778,
+  "paginas": [
+   "c5 p19,p32"
+  ]
+ },
+ "PJ30": {
+  "nombre": "Nene de camisa celeste con dos globos vacíos",
+  "tipo": "personaje",
+  "w": 570,
+  "h": 760,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S8.png",
+  "notas": "",
+  "bytes": 61784,
+  "paginas": [
+   "c5 p38,p49"
+  ]
+ },
+ "PJ31": {
+  "nombre": "Nena de cola con remera a rayas y jeans",
+  "tipo": "personaje",
+  "w": 327,
+  "h": 760,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S9.png",
+  "notas": "",
+  "bytes": 55908,
+  "paginas": [
+   "c5 p36"
+  ]
+ },
+ "PJ32": {
+  "nombre": "Nene de suéter verde con tablet violeta, 3/4",
+  "tipo": "personaje",
+  "w": 436,
+  "h": 760,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S8.png",
+  "notas": "",
+  "bytes": 60504,
+  "paginas": [
+   "c5 p55"
+  ]
+ },
+ "PJ33": {
+  "nombre": "Nene de cárdigan crema tras puesto de figuritas",
+  "tipo": "personaje",
+  "w": 552,
+  "h": 760,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S9.png",
+  "notas": "",
+  "bytes": 89922,
+  "paginas": [
+   "c5 p37"
+  ]
+ },
+ "PU-emprendimiento": {
+  "nombre": "Puesto de feria con toldo de colores, frutas, plantas y vendedora; cartel en blanco",
+  "tipo": "objeto",
+  "w": 460,
+  "h": 434,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S12.png",
+  "notas": "",
+  "bytes": 40194,
+  "paginas": [
+   "c5 p06; c6 p03,p06,p08,p09"
+  ]
+ },
+ "PU-galeria-arte": {
+  "nombre": "Casita rosa galería de arte con nena pintora",
+  "tipo": "objeto",
+  "w": 490,
+  "h": 487,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S12.png",
+  "notas": "",
+  "bytes": 44198,
+  "paginas": [
+   "c5 p01"
   ]
  },
  "PU01": {
@@ -2047,6 +3241,71 @@
    "c3 p16"
   ]
  },
+ "PU09": {
+  "nombre": "Puesto de limonada con Sofi (nena de rodetes)",
+  "tipo": "puesto",
+  "w": 1100,
+  "h": 831,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c23_PU09.png",
+  "notas": "",
+  "bytes": 77544,
+  "paginas": [
+   "c3 p24",
+   "c3 p20"
+  ]
+ },
+ "PU15": {
+  "nombre": "Puesto violeta con toldo verde y vendedora de rulos",
+  "tipo": "puesto",
+  "w": 875,
+  "h": 1100,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c23_PU15.png",
+  "notas": "",
+  "bytes": 73690,
+  "paginas": [
+   "c3 p01"
+  ]
+ },
+ "SC-banco-nene": {
+  "nombre": "Cajera de pelo lila entrega billetes y papel a nene con mochila, sobre mancha amarilla",
+  "tipo": "escena",
+  "w": 800,
+  "h": 337,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S6.png",
+  "notas": "",
+  "bytes": 61222,
+  "paginas": [
+   "c4 p09; c5 p15"
+  ]
+ },
+ "SC-boveda-guardia": {
+  "nombre": "Bóveda abierta con lingotes y guardia de uniforme azul, mancha amarilla",
+  "tipo": "escena",
+  "w": 789,
+  "h": 769,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S7.png",
+  "notas": "",
+  "bytes": 72256,
+  "paginas": [
+   "c5 p10,p16"
+  ]
+ },
  "SC-campo-escuela": {
   "nombre": "SC-campo-escuela",
   "tipo": "objeto",
@@ -2074,6 +3333,22 @@
   "bytes": 65328,
   "paginas": [
    "c1 p10"
+  ]
+ },
+ "SC-fintech": {
+  "nombre": "Chico de camisa verde con tablet de gráficos en escritorio sobre mancha celeste",
+  "tipo": "escena",
+  "w": 800,
+  "h": 332,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S5.png",
+  "notas": "",
+  "bytes": 47346,
+  "paginas": [
+   "c4 p15"
   ]
  },
  "SC-micro": {
@@ -2108,6 +3383,22 @@
    "c1 p25"
   ]
  },
+ "SC-nene-mesa": {
+  "nombre": "Nene de buzo violeta con tablet en mesa redonda con billetes",
+  "tipo": "escena",
+  "w": 776,
+  "h": 481,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S4.png",
+  "notas": "",
+  "bytes": 45118,
+  "paginas": [
+   "c4 p08; c6 p14"
+  ]
+ },
  "SC-pagos": {
   "nombre": "Señora contando monedas con caja fuerte (escena)",
   "tipo": "escena",
@@ -2139,6 +3430,22 @@
   "bytes": 82226,
   "paginas": [
    "c2 p09"
+  ]
+ },
+ "SC-safe": {
+  "nombre": "Abuelo y chico cerrando acuerdo con apretón de manos en mesa redonda con planos y billetes",
+  "tipo": "escena",
+  "w": 800,
+  "h": 386,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S6.png",
+  "notas": "",
+  "bytes": 68750,
+  "paginas": [
+   "c4 p18"
   ]
  },
  "UI-banner-amarillo": {
@@ -2565,6 +3872,22 @@
    "c2 p06"
   ]
  },
+ "UI-sol": {
+  "nombre": "Sol amarillo de arcilla con rayitos",
+  "tipo": "ui",
+  "w": 396,
+  "h": 400,
+  "pivote": [
+   0.5,
+   0.5
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c23_S2.png",
+  "notas": "",
+  "bytes": 15076,
+  "paginas": [
+   "c3 p24"
+  ]
+ },
  "UI-tarjeta-amarillo": {
   "nombre": "Tarjeta de arcilla (9-slice)",
   "tipo": "ui",
@@ -2767,6 +4090,22 @@
   "notas": "1024x1024 opaco (no RGBA). Fondo de cap2. Cuadrícula ~18 celdas; no garantizada sin costura: usar background-size cover o espejado.",
   "bytes": 32712
  },
+ "VN-picnic": {
+  "nombre": "Familia de cinco generaciones de picnic sobre isla de pasto",
+  "tipo": "viñeta",
+  "w": 900,
+  "h": 524,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S11.png",
+  "notas": "",
+  "bytes": 82736,
+  "paginas": [
+   "c6 p05,p08,p09"
+  ]
+ },
  "VN01": {
   "nombre": "Veterinaria, mamá y perro con poncho",
   "tipo": "vineta",
@@ -2873,6 +4212,38 @@
    "c1 p01",
    "c1 p07",
    "c1 p25"
+  ]
+ },
+ "VN08": {
+  "nombre": "Abuela con lupa y nieto con tablet en mesa redonda con billetes y gráficos",
+  "tipo": "viñeta",
+  "w": 800,
+  "h": 505,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S4.png",
+  "notas": "",
+  "bytes": 72046,
+  "paginas": [
+   "c4 p06; c5 p35,p59; c6 p02"
+  ]
+ },
+ "VN09": {
+  "nombre": "Sala de bolsa de valores sobre mancha violeta",
+  "tipo": "viñeta",
+  "w": 800,
+  "h": 265,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "ChatGPT arte-libro/crudas/c456_S5.png",
+  "notas": "",
+  "bytes": 62486,
+  "paginas": [
+   "c4 p17"
   ]
  },
  "VN10": {
