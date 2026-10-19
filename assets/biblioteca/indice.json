@@ -3226,6 +3226,22 @@
    "c5 p01"
   ]
  },
+ "PU-taller-autos": {
+  "nombre": "taller de reparación de autos: puesto rojo y crema con toldo, mecánica y autito celeste con capó abierto; cartel en blanco",
+  "tipo": "puesto",
+  "w": 1078,
+  "h": 1011,
+  "pivote": [
+   0.5,
+   1.0
+  ],
+  "fuente": "chatgpt refs PU03+PU04+web-mecanica; arte-libro/crudas/c1_pu_taller.png",
+  "notas": "cartel en blanco: superponer rótulo por código",
+  "bytes": 78666,
+  "paginas": [
+   "c1 p10"
+  ]
+ },
  "PU01": {
   "nombre": "Puesto casita rosa de plantas (Semillitas) con vendedora y gato",
   "tipo": "puesto",
